@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yigtwxx&label=Profile%20views&color=0e75b6&style=flat" alt="yigtwxx" /> </p>
 
-- 🔭 I’m currently working on [PredictaLM](https://github.com/Yigtwxx/PredictaLM)
+- 🔭 I’m currently working on [WaterPulse](https://github.com/Yigtwxx/WaterPulse)
 - 🌱 I’m currently learning **Advanced Deep Learning, MLOps, Model Optimization, Distributed Training**
 - 👯 I’m looking to collaborate on **Open-source AI / ML projects (NLP, Computer Vision, Anomaly Detection)**
 - 🤝 I’m looking for help with **Model optimization, large-scale training and deployment (MLOps)**
