@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yigtwx</h1>
+<h1 align="center">Hi, I'm Yigtwx</h1>
 <h3 align="center">AI & ML Engineer building deep learning systems for vision, language and real-world data</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yigtwxx&label=Profile%20views&color=0e75b6&style=flat" alt="yigtwxx" /> </p>
 
 - 🔭 I’m currently working on [PredictaLM](https://github.com/Yigtwxx/PredictaLM)
 - 🌱 I’m currently learning **Advanced Deep Learning, MLOps, Model Optimization, Distributed Training**
