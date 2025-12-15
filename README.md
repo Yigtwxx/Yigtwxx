@@ -4,21 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yigtwxx&label=Profile%20views&color=0e75b6&style=flat" alt="yigtwxx" /> </p>
 
 - 🔭 I’m currently working on [PredictaLM](https://github.com/Yigtwxx/PredictaLM)
-
 - 🌱 I’m currently learning **Advanced Deep Learning, MLOps, Model Optimization, Distributed Training**
-
 - 👯 I’m looking to collaborate on **Open-source AI / ML projects (NLP, Computer Vision, Anomaly Detection)**
-
 - 🤝 I’m looking for help with **Model optimization, large-scale training and deployment (MLOps)**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Yigtwxx](https://github.com/Yigtwxx)
-
 - 💬 Ask me about **Python, PyTorch, Deep Learning, Computer Vision, NLP**
-
 - 📫 How to reach me **yigiterdogan023@gmail.com**
-
 - 📄 Know about my experiences [Academic and project-based experience in AI & Machine Learning](Academic and project-based experience in AI & Machine Learning)
-
 - ⚡ Fun fact **I like breaking models to understand them better**
 
 <h3 align="left">Connect with me:</h3>
