@@ -19,7 +19,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Yigtwxx](https://github.com/Yigtwxx)
 - 💬 Ask me about **Python, PyTorch, Deep Learning, Computer Vision, NLP**
 - 📫 How to reach me **yigiterdogan023@gmail.com**
-- 📄 Know about my experiences [Academic and project-based experience in AI & Machine Learning](Academic and project-based experience in AI & Machine Learning)
+- 📄 View my CV – Academic and project-based experience in AI & Machine Learning 👉 **[Click here to review my CV](https://github.com/user-attachments/files/24191545/Yigit_ERDOGAN_CV.pdf)**
 - ⚡ Fun fact **I like breaking models to understand them better**
 
 <h3 align="left">Connect with me:</h3>
