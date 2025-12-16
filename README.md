@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Yigtwx</h1>
 <h3 align="center">AI & ML Engineer building deep learning systems for vision, language and real-world data</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yigtwxx&label=Profile%20views&color=0e75b6&style=flat" alt="yigtwxx" /> </p>
 
 - 🔭 I’m currently working on [WaterPulse](https://github.com/Yigtwxx/WaterPulse)
@@ -24,4 +23,11 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Yigtwxx&show_icons=true&theme=radical&v=3" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yigtwxx&layout=compact&theme=radical&hide=html,css,cmake,dart,swift,c%2B%2B,kotlin" height="150" alt="languages graph"  />
+</div>
+
+<div align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophies">
+    <img src="https://github-profile-trophies.vercel.app/?username=Yigtwxx&theme=radical&row=1&column=8&margin-w=15" alt="trophy" />
+  </a>
+</div>
 </div>
