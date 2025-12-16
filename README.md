@@ -1,5 +1,15 @@
-<h1 align="center">Hi, I'm Yigtwx</h1>
-<h3 align="center">AI & ML Engineer building deep learning systems for vision, language and real-world data</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=33E698&center=true&vCenter=true&width=600&repeat=true&lines=Hi,+I'm+Yigtwx;Welcome+to+My+Github+Profile!" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=F77F00&center=true&vCenter=true&width=900&repeat=false&lines=AI+%26+ML+Engineer+building+deep+learning+systems+for+vision%2C+language+and+real-world+data" alt="Typing SVG" />
+  </a>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yigtwxx&label=Profile%20views&color=0e75b6&style=flat" alt="yigtwxx" /> </p>
 
 - 🔭 I’m currently working on [WaterPulse](https://github.com/Yigtwxx/WaterPulse)
