@@ -46,7 +46,7 @@
 </p>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yigtwxx&show_icons=true&theme=radical&cache_seconds=60" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yigtwxx&show_icons=true&theme=radical&cache_seconds=10" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yigtwxx&layout=compact&theme=radical&hide=html,css,cmake,dart,swift,c%2B%2B,kotlin&v=1" height="150" alt="languages graph"  />
 </div>
 
