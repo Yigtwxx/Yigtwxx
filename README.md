@@ -72,7 +72,7 @@
 </p>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yigtwxx&show_icons=true&theme=radical&cache_seconds=22" height="150" alt="stats graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yigtwxx&theme=radical&area=true&hide_border=true" width="42%" alt="GitHub Activity Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yigtwxx&layout=compact&theme=radical&hide=html,css,cmake,dart,swift,c%2B%2B,kotlin&v=2" height="150" alt="languages graph"  />
 </div>
 
