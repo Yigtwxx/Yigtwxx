@@ -28,7 +28,7 @@
       <h3>🧠 Focus & Insights</h3>
       <ul>
         <li>🤝 <b>Seeking Help:</b> Model optimization and large-scale MLOps pipelines</li>
-        <li>💬 <b>Ask Me About:</b> Python, PyTorch, Deep Learning, and CV</li>
+        <li>💬 <b>Ask Me About:</b> Python, PyTorch and Deep Learning</li>
         <li>⚡ <b>Fun Fact:</b> I like breaking models to understand them better.</li>
       </ul>
     </td>
