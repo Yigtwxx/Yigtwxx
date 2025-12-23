@@ -16,15 +16,15 @@
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="60%" valign="top">
       <h3>💻 What I'm Up To</h3>
       <ul>
         <li>🔭 <b>Developing:</b> <a href="https://github.com/Yigtwxx/Awesome-RAG-Production">Awesome-RAG-Production</a></li>
         <li>🌱 <b>Learning:</b> Advanced Deep Learning, MLOps, and Distributed Training</li>
-        <li>👯 <b>Collaboration:</b> Open to NLP, Computer Vision, and Anomaly Detection projects</li>
+        <li>👯 <b>Collaboration:</b> Eager to collaborate on innovative projects involving AI, Machine Learning, and Deep Learning, with a specific focus on NLP and Large Language Models (LLMs)</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="60%" valign="top">
       <h3>🧠 Focus & Insights</h3>
       <ul>
         <li>🤝 <b>Seeking Help:</b> Model optimization and large-scale MLOps pipelines</li>
