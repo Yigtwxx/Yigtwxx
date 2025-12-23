@@ -12,15 +12,40 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yigtwxx&label=Profile%20views&color=0e75b6&style=flat" alt="yigtwxx" /> </p>
 
-- 🔭 I’m currently working on [WaterPulse](https://github.com/Yigtwxx/WaterPulse)
-- 🌱 I’m currently learning **Advanced Deep Learning, MLOps, Model Optimization, Distributed Training**
-- 👯 I’m looking to collaborate on **Open-source AI / ML projects (NLP, Computer Vision, Anomaly Detection)**
-- 🤝 I’m looking for help with **Model optimization, large-scale training and deployment (MLOps)**
-- 👨‍💻 All of my projects are available at [https://github.com/Yigtwxx](https://github.com/Yigtwxx)
-- 💬 Ask me about **Python, PyTorch, Deep Learning, Computer Vision, NLP**
-- 📫 How to reach me **yigiterdogan023@gmail.com**
-- 📄 View my CV – Academic and project-based experience in AI & Machine Learning 👉 **[Click here to review my CV](https://github.com/user-attachments/files/24191545/Yigit_ERDOGAN_CV.pdf)**
-- ⚡ Fun fact **I like breaking models to understand them better**
+## 🚀 About Me
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 What I'm Up To</h3>
+      <ul>
+        <li>🔭 <b>Developing:</b> <a href="https://github.com/Yigtwxx/WaterPulse">WaterPulse</a> (Sensor drift analysis & anomaly detection)</li>
+        <li>🌱 <b>Learning:</b> Advanced Deep Learning, MLOps, and Distributed Training</li>
+        <li>👯 <b>Collaboration:</b> Open to NLP, Computer Vision, and Anomaly Detection projects</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Focus & Insights</h3>
+      <ul>
+        <li>🤝 <b>Seeking Help:</b> Model optimization and large-scale MLOps pipelines</li>
+        <li>💬 <b>Ask Me About:</b> Python, PyTorch, Deep Learning, and CV</li>
+        <li>⚡ <b>Fun Fact:</b> I like breaking models to understand them better.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📩 Contact & Career
+<p align="left">
+  <a href="mailto:yigiterdogan023@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  </a>
+  <a href="https://github.com/user-attachments/files/24191545/Yigit_ERDOGAN_CV.pdf">
+    <img src="https://img.shields.io/badge/Download%20CV-0078D4?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
