@@ -16,7 +16,7 @@
 
 <table align="center">
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3>💻 What I'm Up To</h3>
       <ul>
         <li>🔭 <b>Developing:</b> <a href="https://github.com/Yigtwxx/Awesome-RAG-Production">Awesome-RAG-Production</a></li>
@@ -24,7 +24,7 @@
         <li>👯 <b>Collaboration:</b> Eager to collaborate on innovative projects involving AI, Machine Learning, and Deep Learning, with a specific focus on NLP and Large Language Models (LLMs)</li>
       </ul>
     </td>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3>🧠 Focus & Insights</h3>
       <ul>
         <li>🤝 <b>Seeking Help:</b> Model optimization and large-scale MLOps pipelines</li>
@@ -72,7 +72,7 @@
 </p>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yigtwxx&show_icons=true&theme=radical&cache_seconds=21" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yigtwxx&show_icons=true&theme=radical&cache_seconds=22" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yigtwxx&layout=compact&theme=radical&hide=html,css,cmake,dart,swift,c%2B%2B,kotlin&v=2" height="150" alt="languages graph"  />
 </div>
 
