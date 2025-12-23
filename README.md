@@ -19,7 +19,7 @@
     <td width="50%" valign="top">
       <h3>💻 What I'm Up To</h3>
       <ul>
-        <li>🔭 <b>Developing:</b> <a href="https://github.com/Yigtwxx/WaterPulse">WaterPulse</a> (Sensor drift analysis & anomaly detection)</li>
+        <li>🔭 <b>Developing:</b> <a href="https://github.com/Yigtwxx/Awesome-RAG-Production">Awesome-RAG-Production</a></li>
         <li>🌱 <b>Learning:</b> Advanced Deep Learning, MLOps, and Distributed Training</li>
         <li>👯 <b>Collaboration:</b> Open to NLP, Computer Vision, and Anomaly Detection projects</li>
       </ul>
