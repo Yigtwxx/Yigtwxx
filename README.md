@@ -20,7 +20,7 @@
       <h3>💻 What I'm Up To</h3>
       <ul>
         <li> <b>Developing:</b> <a href="https://github.com/Yigtwxx/Awesome-RAG-Production">Awesome-RAG-Production</a></li>
-        <li>🌱 <b>Learning:</b> Advanced Deep Learning, MLOps, and Distributed Training</li>
+        <li> <b>Learning:</b> Advanced Deep Learning, MLOps, and Distributed Training</li>
         <li>👯 <b>Collaboration:</b> Eager to collaborate on innovative projects involving AI, Machine Learning, and Deep Learning, with a specific focus on NLP and Large Language Models (LLMs)</li>
       </ul>
     </td>
