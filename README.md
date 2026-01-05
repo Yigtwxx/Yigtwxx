@@ -78,24 +78,17 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophies">
-      <img src="https://github-profile-trophies.vercel.app/?username=Yigtwxx&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true" alt="trophy" />
-    </a>
-  </div>
-  <br>
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=Yigtwxx&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yigtwxx&layout=compact&theme=radical&hide_border=true" />
-    </a>
+  <p align="center">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yigtwxx&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yigtwxx&layout=compact&theme=radical&hide_border=true&langs_count=8" />
   </p>
-  <p>
-    <a href="https://github-readme-streak-stats.herokuapp.com/">
-      <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Yigtwxx&theme=radical&hide_border=true" />
-    </a>
+  
+  <p align="center">
+    <img src="https://github-profile-trophies.vercel.app/?username=Yigtwxx&theme=radical&row=1&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="trophy" />
+  </p>
+  
+  <p align="center">
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Yigtwxx&theme=radical&hide_border=true" />
   </p>
 </div>
 
