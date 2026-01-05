@@ -71,25 +71,6 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48"/></a>
 </p>
 
-<<<<<<< HEAD
-<div align="center">
-  <h2>🐍 My Contributions</h2>
-  <img src="https://raw.githubusercontent.com/Yigtwxx/Yigtwxx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-=======
-<<<<<<< HEAD
-<div align="left">
->>>>>>> ae8ff09 (feat: enhance profile with snake animation, stats, and trophies)
-  <a href="https://github.com/ryo-ma/github-profile-trophies">
-    <img src="https://github-profile-trophies.vercel.app/?username=Yigtwxx&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-bg=true" alt="trophy" />
-  </a>
-</div>
-<<<<<<< HEAD
-=======
-=======
 <div align="center">
   <h2>🐍 My Contributions</h2>
   <img src="https://raw.githubusercontent.com/Yigtwxx/Yigtwxx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -101,7 +82,6 @@
     <img src="https://github-profile-trophies.vercel.app/?username=Yigtwxx&theme=flat&row=1&column=7&margin-w=15&margin-h=15&no-bg=true" alt="trophy" />
   </a>
 </div>
->>>>>>> ae8ff09 (feat: enhance profile with snake animation, stats, and trophies)
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
@@ -119,8 +99,4 @@
   <a href="https://github.com/Yigtwxx/Yigtwxx">
     <img src="https://img.shields.io/badge/View%20Source-Code-blue?style=for-the-badge&logo=github" alt="View Source" />
   </a>
-<<<<<<< HEAD
-=======
->>>>>>> 8d687ef (feat: enhance profile with snake animation, stats, and trophies)
->>>>>>> ae8ff09 (feat: enhance profile with snake animation, stats, and trophies)
 </div>
