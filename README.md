@@ -98,7 +98,7 @@
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
   <a href="https://github.com/ryo-ma/github-profile-trophies">
-    <img src="https://github-profile-trophies.vercel.app/?username=Yigtwxx&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-bg=true" alt="trophy" />
+    <img src="https://github-profile-trophies.vercel.app/?username=Yigtwxx&theme=flat&row=1&column=7&margin-w=15&margin-h=15&no-bg=true" alt="trophy" />
   </a>
 </div>
 >>>>>>> ae8ff09 (feat: enhance profile with snake animation, stats, and trophies)
@@ -107,10 +107,10 @@
   <h2>📊 GitHub Stats</h2>
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yigtwxx&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yigtwxx&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yigtwxx&layout=compact&theme=tokyonight&hide_border=true" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yigtwxx&layout=compact&theme=buefy&hide_border=true" />
     </a>
   </p>
 </div>
