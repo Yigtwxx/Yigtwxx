@@ -72,7 +72,7 @@
 </p>
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yigtwxx&theme=radical&area=true&hide_border=true" width="52%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yigtwxx&theme=radical&area=true&hide_border=true" width="54%" alt="GitHub Activity Graph" />
 </div>
 
 <div align="left">
