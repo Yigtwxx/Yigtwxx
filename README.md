@@ -57,19 +57,21 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigtwx" height="35" width="45" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="52" height="52"/></a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/></a>&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/></a>&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="52" height="52"/></a>&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="52" height="52"/></a>&nbsp;
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="48" height="48"/></a>&nbsp;
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="48" height="48"/></a>&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="52" height="52"/></a>&nbsp;
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="52" height="52"/></a>&nbsp;
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48"/></a>
-</p>
+<h3 align="left">🛠️ Skills</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="Skills" src="./Skills_Animation_Dark.gif" width="400">
+</picture>
+
+### Key Focus
+- AI & ML Engineer with expertise in building deep learning systems for vision, language and real-world data
+- Proficient in Python, PyTorch, TensorFlow, and modern ML frameworks
+- Experienced in MLOps, distributed training, and production-ready AI systems
+- Passionate about NLP and Large Language Models (LLMs)
+
+<br clear="left"/>
+
 
 <div align="center">
   <h2>🐍 My Contributions</h2>
