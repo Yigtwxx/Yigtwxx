@@ -80,18 +80,3 @@
   <h2>🏆 GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=Yigtwxx&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
-
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yigtwxx&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yigtwxx&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Yigtwxx&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/Yigtwxx/Yigtwxx">
-    <img src="https://img.shields.io/badge/View%20Source-Code-blue?style=for-the-badge&logo=github" alt="View Source" />
-  </a>
-</div>
