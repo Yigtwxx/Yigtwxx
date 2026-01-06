@@ -96,5 +96,5 @@
 
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
-  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-davevad93s-projects.vercel.app/?username=Yigtwxx&theme=matrix&rank=-B&column=-1" alt="Yigtwxx "/></a></p>
+  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-davevad93s-projects.vercel.app/?username=Yigtwxx&theme=radical&rank=-B&column=-1" alt="Yigtwxx "/></a></p>
 </div>
