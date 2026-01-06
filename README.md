@@ -77,12 +77,12 @@
 </div>
 
 
-<div align="left">
-  <table>
+<div align="center">
+  <h2> 📊 GitHub Stats </h2>
     <tr>
       <td valign="top">
-        <a href="https://github.com/yigtwxx">
-          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yigtwxx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <a href="https://github.com/yigtwxx"> </a>&nbsp;
+          <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yigtwxx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
         </a>
       </td>
       <td valign="top">
@@ -91,7 +91,6 @@
         </a>
       </td>
     </tr>
-  </table>
 </div>
 
 
