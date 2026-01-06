@@ -77,14 +77,21 @@
 </div>
 
 
-<div align="center">
-<h2> 📊 GitHub Stats:</h2>
-
-![](https://github-readme-stats.vercel.app/api?username=yigtwxx&theme=dark&hide_border=false&include_all_commits=false&count_private=true) 
-![](https://nirzak-streak-stats.vercel.app/?user=yigtwxx&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yigtwxx&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yigtwxx&layout=compact&langs_count=8&theme=dark&hide=c,c%2B%2B,dart,cmake)
-
+<div align="left">
+  <table>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/yigtwxx">
+          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yigtwxx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        </a>
+      </td>
+      <td valign="top">
+        <a href="https://github.com/yigtwxx">
+          <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yigtwxx&layout=compact&langs_count=8&theme=dark&hide=c,c%2B%2B,dart,cmake"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
