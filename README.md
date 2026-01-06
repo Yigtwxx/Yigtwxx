@@ -21,15 +21,15 @@
       <ul>
         <li> <b>Developing:</b> <a href="https://github.com/Yigtwxx/Awesome-RAG-Production">Awesome-RAG-Production</a></li>
         <li> <b>Learning:</b> Advanced Deep Learning, MLOps, and Distributed Training</li>
-        <li>👯 <b>Collaboration:</b> Eager to collaborate on innovative projects involving AI, Machine Learning, and Deep Learning, with a specific focus on NLP and Large Language Models (LLMs)</li>
+        <li> <b>Collaboration:</b> Eager to collaborate on innovative projects involving AI, Machine Learning, and Deep Learning, with a specific focus on NLP and Large Language Models (LLMs)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 Focus & Insights</h3>
       <ul>
-        <li>🤝 <b>Seeking Help:</b> Model optimization and large-scale MLOps pipelines</li>
-        <li>💬 <b>Ask Me About:</b> Python, PyTorch and Deep Learning.</li>
-        <li>⚡ <b>Fun Fact:</b> I like breaking models to understand them better.</li>
+        <li> <b>Seeking Help:</b> Model optimization and large-scale MLOps pipelines</li>
+        <li> <b>Ask Me About:</b> Python, PyTorch and Deep Learning.</li>
+        <li> <b>Fun Fact:</b> I like breaking models to understand them better.</li>
       </ul>
     </td>
   </tr>
