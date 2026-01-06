@@ -80,6 +80,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=yigtwxx&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=yigtwxx&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yigtwxx&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="left">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yigtwxx&layout=compact&langs_count=8&theme=dark&hide=c,c%2B%2B,dart,cmake"/><br>  
+
 
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
