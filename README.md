@@ -77,7 +77,7 @@
 </div>
 
 
-<div align="center">
+<div align="left">
 <h2> 📊 GitHub Stats:</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=yigtwxx&theme=dark&hide_border=false&include_all_commits=false&count_private=true) 
