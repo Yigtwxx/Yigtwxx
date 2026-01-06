@@ -79,7 +79,6 @@
 
 <div align="center">
   <h2> 📊 GitHub Stats </h2>
-  <table>
     <tr>
       <td valign="top">
         <a href="https://github.com/yigtwxx"> </a>&nbsp;
@@ -92,7 +91,6 @@
         </a>
       </td>
     </tr>
-  <table>
 </div>
 
 
