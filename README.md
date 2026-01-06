@@ -72,9 +72,14 @@
 </p>
 
 <div align="center">
-  <h2>🐍 My Contributions</h2>
+  <h2> 🐍 My Contributions</h2>
   <img src="https://raw.githubusercontent.com/Yigtwxx/Yigtwxx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yigtwxx&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yigtwxx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yigtwxx&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
