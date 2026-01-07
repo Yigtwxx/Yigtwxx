@@ -94,7 +94,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo" />
