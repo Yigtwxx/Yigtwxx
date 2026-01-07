@@ -10,9 +10,38 @@
   </a>
 </div>
 
-<div align="center">
+
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QxNnhpaGR3YzlrdWJtMWppODR6ZjNwaXkyNWN1bzFkc3d4MGwyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/67ThRZlYBvibtdF9JH/giphy.gif"  />
+
+<div align="left">
   <img src="https://count.getloli.com/@:yigtwxx?theme=3d-num&padding=5&offset=1&scale=1&align=center&pixelated=1&darkmode=auto"  />
 </div>
+
+###
+
+<p align="left">
+  <a href="mailto:yigiterdogan023@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp
+  </a>
+
+  <a href="https://github.com/user-attachments/files/24191545/Yigit_ERDOGAN_CV.pdf">
+    <img src="https://img.shields.io/badge/Download%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /></a>&nbsp
+  </a>
+
+  <a href="https://www.linkedin.com/in/yiğit-erdoğan-ba7a64294" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp
+  </a>
+
+  <a href="https://x.com/Yigtwx" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp
+  </a>
+
+  <a href="https://www.instagram.com/yigtwx/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp
+  </a>
+</p>
+
+### 
 
 ## 🚀 About Me
 
@@ -38,29 +67,6 @@
 </table>
 
 ---
-
-### 📩 Contact & Career
-<p align="left">
-  <a href="mailto:yigiterdogan023@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp
-  </a>
-
-  <a href="https://github.com/user-attachments/files/24191545/Yigit_ERDOGAN_CV.pdf">
-    <img src="https://img.shields.io/badge/Download%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /></a>&nbsp
-  </a>
-
-  <a href="https://www.linkedin.com/in/yiğit-erdoğan-ba7a64294" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp
-  </a>
-
-  <a href="https://x.com/Yigtwx" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp
-  </a>
-
-  <a href="https://www.instagram.com/yigtwx/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp
-  </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
