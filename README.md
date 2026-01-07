@@ -132,7 +132,7 @@
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
 </div>
 
-<div align="center">
+<div align="left">
   <h2>🏆 GitHub Trophies</h2>
   <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-davevad93s-projects.vercel.app/?username=Yigtwxx&theme=radical&rank=-B&column=-1" alt="Yigtwxx "/></a></p>
 </div>
