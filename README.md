@@ -93,11 +93,12 @@
 </div>
 
 ---
-
+## 🛠️ Technologies & Tools
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="60" alt="huggingface logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="60" alt="seaborn logo"/>
