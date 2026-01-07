@@ -10,7 +10,6 @@
   </a>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yigtwxx&label=Profile%20views&color=0e75b6&style=flat" alt="yigtwxx" /> </p>
 <div align="center">
   <img src="https://count.getloli.com/@:yigtwxx?theme=3d-num&padding=5&offset=1&scale=1&align=center&pixelated=1&darkmode=auto"  />
 </div>
