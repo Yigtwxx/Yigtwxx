@@ -14,7 +14,7 @@
 <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QxNnhpaGR3YzlrdWJtMWppODR6ZjNwaXkyNWN1bzFkc3d4MGwyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/67ThRZlYBvibtdF9JH/giphy.gif"  />
 
 <div align="left">
-  <img src="https://count.getloli.com/@:yigtwxx?theme=3d-num&padding=5&offset=1&scale=1&align=center&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:yigtwxx?theme=3d-num&padding=6&offset=1&scale=1&align=center&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
