@@ -43,7 +43,7 @@
 
 ### 
 
-## 🚀 About Me
+## About Me
 
 <table align="center">
   <tr>
@@ -68,27 +68,15 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="52" height="52"/></a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/></a>&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/></a>&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="52" height="52"/></a>&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="52" height="52"/></a>&nbsp;
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="48" height="48"/></a>&nbsp;
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="48" height="48"/></a>&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="52" height="52"/></a>&nbsp;
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="52" height="52"/></a>&nbsp;
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48"/></a>
-</p>
 
-<div align="center">
+<div align="left">
   <h2> 🐍 My Contributions</h2>
   <img src="https://raw.githubusercontent.com/Yigtwxx/Yigtwxx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
+---
 
-<div align="center">
+<div align="left">
   <h2> 📊 GitHub Stats </h2>
     <tr>
       <td valign="top">
@@ -103,6 +91,22 @@
       </td>
     </tr>
 </div>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="52" height="52"/></a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/></a>&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/></a>&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="52" height="52"/></a>&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="52" height="52"/></a>&nbsp;
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="48" height="48"/></a>&nbsp;
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="48" height="48"/></a>&nbsp;
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="52" height="52"/></a>&nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="52" height="52"/></a>&nbsp;
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48"/></a>
+</p>
 
 
 <div align="center">
