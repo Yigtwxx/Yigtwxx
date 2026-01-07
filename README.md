@@ -66,15 +66,10 @@
   </tr>
 </table>
 
----
-
-
 <div align="left">
   <h2> 🐍 My Contributions</h2>
   <img src="https://raw.githubusercontent.com/Yigtwxx/Yigtwxx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
----
 
 <div align="left">
   <h2> 📊 GitHub Stats </h2>
@@ -92,7 +87,6 @@
     </tr>
 </div>
 
----
 ## 🛠️ Technologies & Tools
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
