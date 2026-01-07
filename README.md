@@ -94,20 +94,42 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="52" height="52"/></a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/></a>&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/></a>&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="52" height="52"/></a>&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="52" height="52"/></a>&nbsp;
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="48" height="48"/></a>&nbsp;
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="48" height="48"/></a>&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="52" height="52"/></a>&nbsp;
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="52" height="52"/></a>&nbsp;
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48"/></a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="60" alt="seaborn logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="kaggle logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo" />
+  
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="googlecloud logo" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo" />
 
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
+  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
+
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+</div>
 
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
