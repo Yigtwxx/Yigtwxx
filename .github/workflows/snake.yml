@@ -2,13 +2,13 @@ name: Generate Snake
 
 on:
   schedule:
-    # run automatically every 12 hours
+    # her 12 saatte bir çalışır
     - cron: "0 */12 * * *" 
   
-  # allows to manually run the job at any time
+  # istediğiniz zaman manuel çalıştırmanızı sağlar
   workflow_dispatch:
   
-  # run on every push on the master branch
+  # master veya main branch'e push yapıldığında çalışır
   push:
     branches:
     - master
@@ -22,19 +22,18 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      # GitHub katkı grafiğinden yılan oyunu üretir
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#ff9100&color_dots=#161b22,#004d25,#00813c,#00bc56,#00ff77
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#ff9100&color_dots=#161b22,#004d25,#00813c,#00bc56,#00ff77
+            dist/github-contribution-grid-snake.svg?color_snake=#ff8c00&color_dots=#161b22,#01311f,#03a062,#13e18a,#00ff44
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#ff8c00&color_dots=#161b22,#01311f,#03a062,#13e18a,#00ff44
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      # Üretilen dosyayı 'output' branch'ine yükler
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
