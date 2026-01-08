@@ -39,6 +39,10 @@
   <a href="https://www.instagram.com/yigtwx/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp
   </a>
+
+  <a href="https://www.reddit.com/user/Yigtwx6/" target="_blank">
+    <img src="https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>&nbsp
+  </a>
 </p>
 
 ### 
