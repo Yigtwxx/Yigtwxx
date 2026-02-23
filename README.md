@@ -109,6 +109,7 @@
   <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
   <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="googlecloud logo" />
   <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo" />
