@@ -52,9 +52,10 @@
 ## About Me
 
 <table align="center">
+  
   <tr>
     <td width="60%" valign="top">
-      <h3>💻 What I'm Up To</h3>
+      <h3> What I'm Up To</h3>
       <ul>
         <li> <b>Developing:</b> <a href="https://github.com/Yigtwxx/Awesome-RAG-Production">Awesome-RAG-Production</a></li>
         <li> <b>Learning:</b> Advanced Deep Learning, MLOps, and Distributed Training</li>
@@ -62,7 +63,7 @@
       </ul>
     </td>
     <td width="60%" valign="top">
-      <h3>🧠 Focus & Insights</h3>
+      <h3> Focus & Insights</h3>
       <ul>
         <li> <b>Seeking Help:</b> Model optimization and large-scale MLOps pipelines</li>
         <li> <b>Ask Me About:</b> Python, PyTorch and Deep Learning.</li>
@@ -70,6 +71,7 @@
       </ul>
     </td>
   </tr>
+  
 </table>
 
 <div align="left">
