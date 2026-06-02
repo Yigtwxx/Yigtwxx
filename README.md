@@ -81,7 +81,7 @@
     <tr>
       <td valign="top">
         <a href="https://github.com/yigtwxx"> </a>&nbsp;
-          <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yigtwxx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v2"/>
+          <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yigtwxx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v3"/>
         </a>
       </td>
       <td valign="top">
