@@ -39,6 +39,10 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp
   </a>
 
+  <a href="https://www.youtube.com/@Yigtwx" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-ffffff?style=for-the-badge&logo=youtube&logoColor=red" /></a>&nbsp
+  </a>
+
   <a href="https://github.com/user-attachments/files/24191545/Yigit_ERDOGAN_CV.pdf">
     <img src="https://img.shields.io/badge/Download%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /></a>&nbsp
   </a>
