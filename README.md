@@ -47,6 +47,10 @@
     <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp
   </a>
 
+  <a href="https://news.ycombinator.com/user?id=Yigtwx" target="_blank">
+    <img src="https://img.shields.io/badge/ycombinator-FF7F00?style=for-the-badge&logo=ycombinator&logoColor=white" /></a>&nbsp
+  </a>
+
   <a href="https://github.com/user-attachments/files/24191545/Yigit_ERDOGAN_CV.pdf">
     <img src="https://img.shields.io/badge/Download%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /></a>&nbsp
   </a>
