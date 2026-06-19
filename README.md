@@ -31,10 +31,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp
   </a>
 
-  <a href="https://dev.to/yigtwx" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp
-  </a>
-
   <a href="https://x.com/Yigtwx" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp
   </a>
@@ -45,6 +41,10 @@
 
   <a href="https://www.youtube.com/@Yigtwx" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-ffffff?style=for-the-badge&logo=youtube&logoColor=red" /></a>&nbsp
+  </a>
+
+  <a href="https://dev.to/yigtwx" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp
   </a>
 
   <a href="https://github.com/user-attachments/files/24191545/Yigit_ERDOGAN_CV.pdf">
