@@ -68,19 +68,20 @@
       <ul>
         <li> <b>Developing:</b> <a href="https://github.com/Yigtwxx/J.A.R.V.I.S">J.A.R.V.I.S</a></li>
         <li> <b>Working on:</b> Advanced Machine learning, MLOps, and Retrieval-Augmented Generation (RAG)</li>
-        <li> <b>Collaboration:</b> Eager to collaborate on innovative projects involving AI, Machine Learning, RAG and Deep Learning, with a specific focus on NLP and Large Language Models (LLMs)</li>
+        <li> <b>Collaboration:</b> Eager to collaborate on innovative projects involving AI, Machine Learning, RAG and Deep Learning, with a specific focus on MLOps and Retrieval-Augmented Generation (RAG)</li>
       </ul>
     </td>
     <td width="60%" valign="top">
       <h3> Contributed by me</h3>
       <ul>
-        <li> <b>Seeking Help:</b> Model optimization and large-scale MLOps pipelines</li>
-        <li> <b>Ask Me About:</b> Python, PyTorch and Deep Learning.</li>
-        <li> <b>Fun Fact:</b> I like breaking models to understand them better.</li>
+          <li><strong><a href="https://github.com/koala73/worldmonitor">koala73/worldmonitor</a>:</strong> Added a custom document loader for specialized RAG pipelines (<a href="https://github.com/koala73/worldmonitor/pull/647">PR #647</a>)</li>
+          <li><strong><a href="https://github.com/Juliusolsson05/pharos-ai">Juliusolsson05/pharos-ai</a>:</strong> Optimized model loading time in local environments (<a href="https://github.com/Juliusolsson05/pharos-ai/pull/20">PR #20</a>)</li>
+          <li><strong><a href="https://github.com/josephmisiti/awesome-machine-learning">josephmisiti/awesome-machine-learning</a>:</strong> asdadasd (<a href="https://github.com/josephmisiti/awesome-machine-learning/pull/1131">PR #1131</a>)</li>
+        <li><strong><a href="https://github.com/steven2358/awesome-generative-ai">steven2358/awesome-generative-ai</a>:</strong> asdadasd (<a href="https://github.com/steven2358/awesome-generative-ai/pull/300">PR #300</a>)</li>
+        </ul>
       </ul>
     </td>
   </tr>
-  
 </table>
 
 <div align="left">
