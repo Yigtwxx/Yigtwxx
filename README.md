@@ -82,8 +82,8 @@
       <ul>
           <li><strong><a href="https://github.com/koala73/worldmonitor">koala73/worldmonitor</a>:</strong> Architected a client-side RAG pipeline and an IndexedDB-backed local vector store to enrich AI intelligence briefs with historical context (<a href="https://github.com/koala73/worldmonitor/pull/647">PR #647</a>)</li>
           <li><strong><a href="https://github.com/Juliusolsson05/pharos-ai">Juliusolsson05/pharos-ai</a>:</strong> Developed an end-to-end RAG-powered Intel Assistant widget with pgvector integration and streaming responses via Vercel AI SDK (<a href="https://github.com/Juliusolsson05/pharos-ai/pull/20">PR #20</a>)</li>
-          <li><strong><a href="https://github.com/josephmisiti/awesome-machine-learning">josephmisiti/awesome-machine-learning</a>:</strong> Contributed to one of the largest ML resource lists by indexing [Eklediğin Projenin/Aracın Adı] in the [Kategori Adı] category (<a href="https://github.com/josephmisiti/awesome-machine-learning/pull/1131">PR #1131</a>)</li>
-        <li><strong><a href="https://github.com/steven2358/awesome-generative-ai">steven2358/awesome-generative-ai</a>:</strong> asdadasd (<a href="https://github.com/steven2358/awesome-generative-ai/pull/300">PR #300</a>)</li>
+          <li><strong><a href="https://github.com/josephmisiti/awesome-machine-learning">josephmisiti/awesome-machine-learning</a>:</strong> Adding Awesome RAG Production - A curated list of production-grade tools and best practices for building scalable Retrieval-Augmented Generation (RAG) systems. (<a href="https://github.com/josephmisiti/awesome-machine-learning/pull/1131">PR #1131</a>)</li>
+        <li><strong><a href="https://github.com/steven2358/awesome-generative-ai">steven2358/awesome-generative-ai</a>:</strong> Adding Awesome RAG Production - A curated list of production-grade tools and best practices for building scalable Retrieval-Augmented Generation (RAG) systems. (<a href="https://github.com/steven2358/awesome-generative-ai/pull/300">PR #300</a>)</li>
         </ul>
       </ul>
     </td>
