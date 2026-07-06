@@ -61,7 +61,6 @@
 ## About Me
 
 <table align="left">
-  
   <tr>
     <td width="100%" valign="top">
       <h3> What I'm Up To</h3>
@@ -83,17 +82,14 @@
           <strong><a href="https://github.com/koala73/worldmonitor">koala73/worldmonitor</a>:</strong> Architected a client-side RAG pipeline and an IndexedDB-backed local vector store to enrich AI intelligence briefs with historical context (<a href="https://github.com/koala73/worldmonitor/pull/647">PR #647</a>) 
           <img src="https://img.shields.io/github/stars/koala73/worldmonitor?style=social" alt="GitHub stars" valign="middle">
         </li>
-        <br>
         <li>
           <strong><a href="https://github.com/Juliusolsson05/pharos-ai">Juliusolsson05/pharos-ai</a>:</strong> Developed an end-to-end RAG-powered Intel Assistant widget with pgvector integration and streaming responses via Vercel AI SDK (<a href="https://github.com/Juliusolsson05/pharos-ai/pull/20">PR #20</a>) 
           <img src="https://img.shields.io/github/stars/Juliusolsson05/pharos-ai?style=social" alt="GitHub stars" valign="middle">
         </li>
-        <br>
         <li>
           <strong><a href="https://github.com/josephmisiti/awesome-machine-learning">josephmisiti/awesome-machine-learning</a>:</strong> Added Awesome RAG Production - A curated list of production-grade tools and best practices for building scalable Retrieval-Augmented Generation (RAG) systems. (<a href="https://github.com/josephmisiti/awesome-machine-learning/pull/1131">PR #1131</a>) 
           <img src="https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social" alt="GitHub stars" valign="middle">
         </li>
-        <br>
         <li>
           <strong><a href="https://github.com/steven2358/awesome-generative-ai">steven2358/awesome-generative-ai</a>:</strong> Added Awesome RAG Production - A curated list of production-grade tools and best practices for building scalable Retrieval-Augmented Generation (RAG) systems. (<a href="https://github.com/steven2358/awesome-generative-ai/pull/300">PR #300</a>) 
           <img src="https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=social" alt="GitHub stars" valign="middle">
