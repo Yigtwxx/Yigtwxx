@@ -67,7 +67,7 @@
       <ul>
         <li> <b>Developing:</b> <a href="https://github.com/Yigtwxx/J.A.R.V.I.S">J.A.R.V.I.S</a></li>
         <li> <b>Working on:</b> Advanced Machine learning, MLOps, and Retrieval-Augmented Generation (RAG)</li>
-        <li> <b>Collaboration:</b> Eager to collaborate on innovative projects involving AI, Machine Learning, RAG and Deep Learning, with a specific focus on MLOps and Retrieval-Augmented Generation (RAG)</li>
+        <li> <b>Collaboration:</b> Eager to collaborate on innovative projects involving AI, Machine Learning and Deep Learning, with a specific focus on MLOps and Retrieval-Augmented Generation (RAG)</li>
       </ul>
     </td>
   </tr>
