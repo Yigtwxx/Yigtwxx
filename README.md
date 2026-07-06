@@ -67,11 +67,8 @@
       <h3> What I'm Up To</h3>
       <ul>
         <li> <b>Developing:</b> <a href="https://github.com/Yigtwxx/J.A.R.V.I.S">J.A.R.V.I.S</a></li>
-        <li> <b>Learning:</b> Advanced Machine learning, MLOps, and Retrieval-Augmented Generation (RAG)</li>
+        <li> <b>Working on:</b> Advanced Machine learning, MLOps, and Retrieval-Augmented Generation (RAG)</li>
         <li> <b>Collaboration:</b> Eager to collaborate on innovative projects involving AI, Machine Learning, RAG and Deep Learning, with a specific focus on NLP and Large Language Models (LLMs)</li>
-        <li> <b>Seeking Help:</b> Model optimization and large-scale MLOps pipelines</li>
-        <li> <b>Ask Me About:</b> Python, PyTorch and Deep Learning.</li>
-        <li> <b>Fun Fact:</b> I like breaking models to understand them better.</li>
       </ul>
     </td>
     <td width="60%" valign="top">
