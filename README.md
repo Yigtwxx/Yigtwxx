@@ -63,7 +63,7 @@
 <table align="left">
   <tr>
     <td width="100%" valign="top">
-      <h3> What I'm Up To</h3>
+      <h3 style="margin-top:0;"> What I'm Up To</h3>
       <ul>
         <li> <b>Developing:</b> <a href="https://github.com/Yigtwxx/J.A.R.V.I.S">J.A.R.V.I.S</a></li>
         <li> <b>Working on:</b> Advanced Machine learning, MLOps, and Retrieval-Augmented Generation (RAG)</li>
@@ -76,7 +76,7 @@
 <table align="left">
   <tr>
     <td width="100%" valign="top">
-      <h3> Contributed by me</h3>
+      <h3 style="margin-top:0;"> Contributed by me To</h3>
       <ul>
         <li>
           <strong><a href="https://github.com/koala73/worldmonitor">koala73/worldmonitor</a>:</strong> Architected a client-side RAG pipeline and an IndexedDB-backed local vector store to enrich AI intelligence briefs with historical context (<a href="https://github.com/koala73/worldmonitor/pull/647">PR #647</a>) 
