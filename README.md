@@ -60,44 +60,20 @@
 
 ## About Me
 
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3 style="margin-top:0;"> What I'm up to</h3>
-      <ul>
-        <li> <b>Developing:</b> <a href="https://github.com/Yigtwxx/J.A.R.V.I.S">J.A.R.V.I.S</a></li>
-        <li> <b>Working on:</b> Advanced Machine learning, MLOps, and Retrieval-Augmented Generation (RAG)</li>
-        <li> <b>Collaboration:</b> Eager to collaborate on innovative projects involving AI, Machine Learning and Deep Learning, with a specific focus on MLOps and Retrieval-Augmented Generation (RAG)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### What I'm up to
 
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3 style="margin-top:0;"> Contributed by me</h3>
-      <ul>
-        <li>
-          <strong><a href="https://github.com/koala73/worldmonitor">koala73/worldmonitor</a>:</strong> Architected a client-side RAG pipeline and an IndexedDB-backed local vector store to enrich AI intelligence briefs with historical context (<a href="https://github.com/koala73/worldmonitor/pull/647">PR #647</a>) 
-          <img src="https://img.shields.io/github/stars/koala73/worldmonitor?style=social" alt="GitHub stars" valign="middle">
-        </li>
-        <li>
-          <strong><a href="https://github.com/Juliusolsson05/pharos-ai">Juliusolsson05/pharos-ai</a>:</strong> Developed an end-to-end RAG-powered Intel Assistant widget with pgvector integration and streaming responses via Vercel AI SDK (<a href="https://github.com/Juliusolsson05/pharos-ai/pull/20">PR #20</a>) 
-          <img src="https://img.shields.io/github/stars/Juliusolsson05/pharos-ai?style=social" alt="GitHub stars" valign="middle">
-        </li>
-        <li>
-          <strong><a href="https://github.com/josephmisiti/awesome-machine-learning">josephmisiti/awesome-machine-learning</a>:</strong> Added Awesome RAG Production - A curated list of production-grade tools and best practices for building scalable Retrieval-Augmented Generation (RAG) systems. (<a href="https://github.com/josephmisiti/awesome-machine-learning/pull/1131">PR #1131</a>) 
-          <img src="https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social" alt="GitHub stars" valign="middle">
-        </li>
-        <li>
-          <strong><a href="https://github.com/steven2358/awesome-generative-ai">steven2358/awesome-generative-ai</a>:</strong> Added Awesome RAG Production - A curated list of production-grade tools and best practices for building scalable Retrieval-Augmented Generation (RAG) systems. (<a href="https://github.com/steven2358/awesome-generative-ai/pull/300">PR #300</a>) 
-          <img src="https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=social" alt="GitHub stars" valign="middle">
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- **Developing:** [J.A.R.V.I.S](https://github.com/Yigtwxx/J.A.R.V.I.S)
+- **Working on:** Advanced Machine Learning, MLOps, and Retrieval-Augmented Generation (RAG)
+- **Collaboration:** Eager to collaborate on innovative AI / ML / Deep Learning projects, focused on MLOps and RAG
+
+### Contributed by me
+
+- **[koala73/worldmonitor](https://github.com/koala73/worldmonitor):** Architected a client-side RAG pipeline and an IndexedDB-backed local vector store to enrich AI intelligence briefs with historical context ([PR #647](https://github.com/koala73/worldmonitor/pull/647)) &nbsp;<img src="https://img.shields.io/github/stars/koala73/worldmonitor?style=social" alt="stars" valign="middle">
+- **[Juliusolsson05/pharos-ai](https://github.com/Juliusolsson05/pharos-ai):** Developed an end-to-end RAG-powered Intel Assistant widget with pgvector integration and streaming responses via Vercel AI SDK ([PR #20](https://github.com/Juliusolsson05/pharos-ai/pull/20)) &nbsp;<img src="https://img.shields.io/github/stars/Juliusolsson05/pharos-ai?style=social" alt="stars" valign="middle">
+- **[josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning):** Added Awesome RAG Production — a curated list of production-grade tools and best practices for scalable RAG systems ([PR #1131](https://github.com/josephmisiti/awesome-machine-learning/pull/1131)) &nbsp;<img src="https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social" alt="stars" valign="middle">
+- **[steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai):** Added Awesome RAG Production — a curated list of production-grade tools and best practices for scalable RAG systems ([PR #300](https://github.com/steven2358/awesome-generative-ai/pull/300)) &nbsp;<img src="https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=social" alt="stars" valign="middle">
+
+
 
 <div align="left">
   <h2> 🐍 My Contributions</h2>
