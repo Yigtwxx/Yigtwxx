@@ -60,7 +60,7 @@
 
 ## About Me
 
-<table align="left">
+<table>
   <tr>
     <td width="100%" valign="top">
       <h3 style="margin-top:0;"> What I'm up to</h3>
