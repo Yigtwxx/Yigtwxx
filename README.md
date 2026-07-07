@@ -52,8 +52,13 @@
 ### Contributed by me
 
 - **[koala73/worldmonitor](https://github.com/koala73/worldmonitor):** Architected a client-side RAG pipeline and an IndexedDB-backed local vector store to enrich AI intelligence briefs with historical context ([PR #647](https://github.com/koala73/worldmonitor/pull/647)) &nbsp;<img src="https://img.shields.io/github/stars/koala73/worldmonitor?style=social" alt="stars" valign="middle">
+
+- **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search):** Fixed hex HTML-entity and supplementary-plane character decoding across two job-search CLI scrapers, so accented/emoji text in scraped listings renders correctly — with network-free unit tests ([PR #55](https://github.com/MadsLorentzen/ai-job-search/pull/55)) and ([PR #56](https://github.com/MadsLorentzen/ai-job-search/pull/56)) &nbsp;<img src="https://img.shields.io/github/stars/MadsLorentzen/ai-job-search?style=social" alt="stars" valign="middle">
+
 - **[Juliusolsson05/pharos-ai](https://github.com/Juliusolsson05/pharos-ai):** Developed an end-to-end RAG-powered Intel Assistant widget with pgvector integration and streaming responses via Vercel AI SDK ([PR #20](https://github.com/Juliusolsson05/pharos-ai/pull/20)) &nbsp;<img src="https://img.shields.io/github/stars/Juliusolsson05/pharos-ai?style=social" alt="stars" valign="middle">
+
 - **[josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning):** Contributed **Awesome RAG Production** — a curated index of production-grade tooling and engineering best practices for building scalable Retrieval-Augmented Generation systems ([PR #1131](https://github.com/josephmisiti/awesome-machine-learning/pull/1131)) &nbsp;<img src="https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social" alt="stars" valign="middle">
+
 - **[steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai):** Submitted **Awesome RAG Production** — a hand-picked collection of battle-tested tools, patterns, and references for shipping reliable RAG applications to production ([PR #300](https://github.com/steven2358/awesome-generative-ai/pull/300)) &nbsp;<img src="https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=social" alt="stars" valign="middle">
 
 
