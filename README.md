@@ -10,6 +10,8 @@
   </a>
 </div>
 
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QxNnhpaGR3YzlrdWJtMWppODR6ZjNwaXkyNWN1bzFkc3d4MGwyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/67ThRZlYBvibtdF9JH/giphy.gif"  />
+
 ###
 
 <p align="left">
@@ -40,8 +42,6 @@
   <a href="https://github.com/user-attachments/files/24191545/Yigit_ERDOGAN_CV.pdf">
     <img src="https://img.shields.io/badge/Download%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /></a>&nbsp
 </p>
-
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QxNnhpaGR3YzlrdWJtMWppODR6ZjNwaXkyNWN1bzFkc3d4MGwyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/67ThRZlYBvibtdF9JH/giphy.gif"  />
 
 ### What I'm up to
 
