@@ -73,7 +73,7 @@
   </tr>
 </table>
 
-<table align="left">
+<table>
   <tr>
     <td width="100%" valign="top">
       <h3 style="margin-top:0;"> Contributed by me</h3>
