@@ -51,7 +51,7 @@
 
 ### Contributed by me
 
-- **[koala73/worldmonitor](https://github.com/koala73/worldmonitor):** Architected a client-side RAG pipeline and an IndexedDB-backed local vector store to enrich AI intelligence briefs with historical context ([PR #647](https://github.com/koala73/worldmonitor/pull/675)) &nbsp;<img src="https://img.shields.io/github/stars/koala73/worldmonitor?style=social" alt="stars" valign="middle">
+- **[koala73/worldmonitor](https://github.com/koala73/worldmonitor):** Architected a client-side RAG pipeline and an IndexedDB-backed local vector store to enrich AI intelligence briefs with historical context ([PR #675](https://github.com/koala73/worldmonitor/pull/675)) &nbsp;<img src="https://img.shields.io/github/stars/koala73/worldmonitor?style=social" alt="stars" valign="middle">
 
 - **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search):** Fixed hex HTML-entity and supplementary-plane character decoding across two job-search CLI scrapers, so accented/emoji text in scraped listings renders correctly — with network-free unit tests ([PR #55](https://github.com/MadsLorentzen/ai-job-search/pull/55)) and ([PR #56](https://github.com/MadsLorentzen/ai-job-search/pull/56)) &nbsp;<img src="https://img.shields.io/github/stars/MadsLorentzen/ai-job-search?style=social" alt="stars" valign="middle">
 
