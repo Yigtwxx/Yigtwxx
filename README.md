@@ -53,10 +53,6 @@
   </a>
 </p>
 
-### 
-
-## About Me
-
 ### What I'm up to
 
 - **Developing:** [J.A.R.V.I.S](https://github.com/Yigtwxx/J.A.R.V.I.S)
