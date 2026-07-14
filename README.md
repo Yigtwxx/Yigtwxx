@@ -45,7 +45,7 @@
 
 ### What I'm up to
 
-- **Developing:** [J.A.R.V.I.S](https://github.com/Yigtwxx/J.A.R.V.I.S)
+- **Developing:** [maestro](https://github.com/Yigtwxx/maestro)
 - **Focus:** Production RAG, MLOps, and applied ML
 - **Open to:** Collaboration on scalable RAG / LLM systems
 
