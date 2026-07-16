@@ -48,7 +48,7 @@
 - **Developing:** [maestro](https://github.com/Yigtwxx/maestro)
 - **Focus:** Production RAG, MLOps, and applied ML
 - **Open to:** Collaboration on scalable RAG / LLM systems
-https://github.com/n8n-io/n8n
+
 ### Contributed by me
 
 - **[n8n-io/n8n](https://github.com/n8n-io/n8n):** Resolved a silent data-loss defect in the Salesforce node where Case ParentId was discarded on create and update due to a property-name casing mismatch, and added regression coverage to prevent recurrence. ([PR #33775](https://github.com/n8n-io/n8n/pull/33775)) &nbsp;<img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social" alt="stars" valign="middle">
