@@ -48,8 +48,10 @@
 - **Developing:** [maestro](https://github.com/Yigtwxx/maestro)
 - **Focus:** Production RAG, MLOps, and applied ML
 - **Open to:** Collaboration on scalable RAG / LLM systems
-
+https://github.com/n8n-io/n8n
 ### Contributed by me
+
+- **[n8n-io/n8n](https://github.com/n8n-io/n8n):** Architected a client-side RAG pipeline and an IndexedDB-backed local vector store to enrich AI intelligence briefs with historical context ([PR #33775](https://github.com/n8n-io/n8n/pull/33775)) &nbsp;<img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social" alt="stars" valign="middle">
 
 - **[koala73/worldmonitor](https://github.com/koala73/worldmonitor):** Architected a client-side RAG pipeline and an IndexedDB-backed local vector store to enrich AI intelligence briefs with historical context ([PR #675](https://github.com/koala73/worldmonitor/pull/675)) &nbsp;<img src="https://img.shields.io/github/stars/koala73/worldmonitor?style=social" alt="stars" valign="middle">
 
