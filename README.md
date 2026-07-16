@@ -51,7 +51,7 @@
 https://github.com/n8n-io/n8n
 ### Contributed by me
 
-- **[n8n-io/n8n](https://github.com/n8n-io/n8n):** Architected a client-side RAG pipeline and an IndexedDB-backed local vector store to enrich AI intelligence briefs with historical context ([PR #33775](https://github.com/n8n-io/n8n/pull/33775)) &nbsp;<img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social" alt="stars" valign="middle">
+- **[n8n-io/n8n](https://github.com/n8n-io/n8n):** Resolved a silent data-loss defect in the Salesforce node where Case ParentId was discarded on create and update due to a property-name casing mismatch, and added regression coverage to prevent recurrence. ([PR #33775](https://github.com/n8n-io/n8n/pull/33775)) &nbsp;<img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social" alt="stars" valign="middle">
 
 - **[koala73/worldmonitor](https://github.com/koala73/worldmonitor):** Architected a client-side RAG pipeline and an IndexedDB-backed local vector store to enrich AI intelligence briefs with historical context ([PR #675](https://github.com/koala73/worldmonitor/pull/675)) &nbsp;<img src="https://img.shields.io/github/stars/koala73/worldmonitor?style=social" alt="stars" valign="middle">
 
