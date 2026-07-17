@@ -59,7 +59,7 @@
 
 - **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files):** Established the project's first CI pipeline — a GitHub Actions workflow running the pytest suite on Ubuntu and Windows plus vitest for the Pi extension ([PR #199](https://github.com/OthmanAdi/planning-with-files/pull/199)) **|** Fixed the two latent cross-platform test failures the first runner execution exposed: a Git Bash path-alias mismatch on Windows and Windows-shaped sanitizer vectors running on POSIX ([PR #198](https://github.com/OthmanAdi/planning-with-files/pull/198)) **|** Pinned the Pi extension's dependencies with a committed lockfile and switched the vitest job to `npm ci` ([PR #200](https://github.com/OthmanAdi/planning-with-files/pull/200)) &nbsp;<img src="https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=social" alt="stars" valign="middle">
 
-- **[agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw):** Removed a redundant nvidia-smi probe from the GPU memory check, where a CUDA-existence guard re-ran a query that already fails cleanly without a driver — cutting a third of the nvidia-smi spawns at startup, halving them on the /models endpoint, and giving the module its first unit tests. ([PR #6204](https://github.com/agentscope-ai/QwenPaw/pull/6204)) &nbsp;<img src="https://img.shields.io/github/stars/agentscope-ai/QwenPaw?style=social" alt="stars" valign="middle">
+- **[agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw):** Closed a data-loss window where a shutdown during startup force-flushed a never-seeded cache over `token_usage.json`, atomically erasing every recorded day of usage — pinned by a regression test and a positive control ([PR #6220](https://github.com/agentscope-ai/QwenPaw/pull/6220)) **|** Removed a redundant nvidia-smi probe from the GPU memory check, where a CUDA-existence guard re-ran a query that already fails cleanly without a driver, cutting a third of the nvidia-smi spawns at startup and halving them on the /models endpoint ([PR #6204](https://github.com/agentscope-ai/QwenPaw/pull/6204)) &nbsp;<img src="https://img.shields.io/github/stars/agentscope-ai/QwenPaw?style=social" alt="stars" valign="middle">
 
 - **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search):** Fixed hex HTML-entity and supplementary-plane character decoding in the LinkedIn scraper's CLI, so accented and emoji text in scraped listings renders correctly instead of leaking raw entities — with network-free unit tests ([PR #55](https://github.com/MadsLorentzen/ai-job-search/pull/55)) **|** Applied the same fix to both decoder copies in the Jobindex scraper, where Danish æ/ø/å routinely arrive as numeric entities ([PR #56](https://github.com/MadsLorentzen/ai-job-search/pull/56)) &nbsp;<img src="https://img.shields.io/github/stars/MadsLorentzen/ai-job-search?style=social" alt="stars" valign="middle">
 
@@ -75,10 +75,6 @@
 
 <div align="left">
   <h2> 📊 GitHub Stats </h2>
-  <a href="https://github.com/yigtwxx">
-    <img height="165" src="https://yigtwxx-stats.vercel.app/api?username=yigtwxx&show_icons=true&theme=algolia&include_all_commits=true"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/yigtwxx">
-    <img height="165" src="https://yigtwxx-stats.vercel.app/api/top-langs/?username=yigtwxx&layout=compact&langs_count=8&card_width=450&theme=algolia&hide=c,c%2B%2B,dart,cmake"/>
-  </a>
+  <a href="https://github.com/yigtwxx"><img height="165" src="https://yigtwxx-stats.vercel.app/api?username=yigtwxx&show_icons=true&theme=algolia&include_all_commits=true"/></a>
+  <a href="https://github.com/yigtwxx"><img height="165" src="https://yigtwxx-stats.vercel.app/api/top-langs/?username=yigtwxx&layout=compact&langs_count=8&card_width=450&theme=algolia&hide=c,c%2B%2B,dart,cmake"/></a>
 </div>
