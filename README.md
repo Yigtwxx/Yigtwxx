@@ -33,7 +33,7 @@
 
 ### What I'm up to
 
-- **Developing:** [maestro](https://github.com/Yigtwxx/maestro)
+- **Developing:** [maestro](https://github.com/Yigtwxx/maestro) — an open-core orchestrator for multi-agent LLM workflows, self-hosted and bring-your-own-key
 - **Focus:** Production RAG, MLOps, and applied ML
 - **Open to:** Collaboration on scalable RAG / LLM systems
 
