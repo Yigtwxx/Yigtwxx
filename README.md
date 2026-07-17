@@ -16,31 +16,31 @@
 
 <p align="left">
   <a href="mailto:yigiterdogan023@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   
   <a href="https://www.reddit.com/user/yigtwx7/" target="_blank">
-    <img src="https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>&nbsp
+    <img src="https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>&nbsp;
   
   <a href="https://www.linkedin.com/in/yigit-erdogan0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 
   <a href="https://x.com/Yigtwx" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
 
   <a href="https://www.instagram.com/yigtwx/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
 
   <a href="https://www.youtube.com/@Yigtwx" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-ffffff?style=for-the-badge&logo=youtube&logoColor=red" /></a>&nbsp
+    <img src="https://img.shields.io/badge/YouTube-ffffff?style=for-the-badge&logo=youtube&logoColor=red" /></a>&nbsp;
 
   <a href="https://dev.to/yigtwx" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp
+    <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;
 
   <a href="https://news.ycombinator.com/user?id=Yigtwx" target="_blank">
-    <img src="https://img.shields.io/badge/ycombinator-FF7F00?style=for-the-badge&logo=ycombinator&logoColor=white" /></a>&nbsp
+    <img src="https://img.shields.io/badge/ycombinator-FF7F00?style=for-the-badge&logo=ycombinator&logoColor=white" /></a>&nbsp;
 
   <a href="https://github.com/user-attachments/files/24191545/Yigit_ERDOGAN_CV.pdf">
-    <img src="https://img.shields.io/badge/Download%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /></a>&nbsp
+    <img src="https://img.shields.io/badge/Download%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /></a>&nbsp;
 </p>
 
 ### What I'm up to
