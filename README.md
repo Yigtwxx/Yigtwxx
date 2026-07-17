@@ -75,16 +75,10 @@
 
 <div align="left">
   <h2> 📊 GitHub Stats </h2>
-    <tr>
-      <td valign="top">
-        <a href="https://github.com/yigtwxx"> </a>&nbsp;
-          <img height="165" src="https://yigtwxx-stats.vercel.app/api?username=yigtwxx&show_icons=true&theme=algolia&include_all_commits=true"/>
-        </a>
-      </td>
-      <td valign="top">
-        <a href="https://github.com/yigtwxx">
-          <img height="180" src="https://yigtwxx-stats.vercel.app/api/top-langs/?username=yigtwxx&layout=compact&langs_count=8&theme=algolia&hide=c,c%2B%2B,dart,cmake"/>
-        </a>
-      </td>
-    </tr>
+  <a href="https://github.com/yigtwxx">
+    <img height="165" src="https://yigtwxx-stats.vercel.app/api?username=yigtwxx&show_icons=true&theme=algolia&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/yigtwxx">
+    <img height="165" src="https://yigtwxx-stats.vercel.app/api/top-langs/?username=yigtwxx&layout=compact&langs_count=8&card_width=450&theme=algolia&hide=c,c%2B%2B,dart,cmake"/>
+  </a>
 </div>
