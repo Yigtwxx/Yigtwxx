@@ -70,11 +70,11 @@
 
 <div align="left">
   <h2> 🐍 My Contributions</h2>
-  <img src="https://raw.githubusercontent.com/Yigtwxx/Yigtwxx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img width="100%" src="https://raw.githubusercontent.com/Yigtwxx/Yigtwxx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="left">
   <h2> 📊 GitHub Stats </h2>
-  <a href="https://github.com/yigtwxx"><img height="165" src="https://yigtwxx-stats.vercel.app/api?username=yigtwxx&show_icons=true&theme=algolia&include_all_commits=true"/></a>
-  <a href="https://github.com/yigtwxx"><img height="165" src="https://yigtwxx-stats.vercel.app/api/top-langs/?username=yigtwxx&layout=compact&langs_count=8&card_width=450&theme=algolia&hide=c,c%2B%2B,dart,cmake"/></a>
+  <a href="https://github.com/yigtwxx"><img width="49%" src="https://yigtwxx-stats.vercel.app/api?username=yigtwxx&show_icons=true&theme=algolia&include_all_commits=true" alt="GitHub Stats"/></a>
+  <a href="https://github.com/yigtwxx"><img width="49%" src="https://yigtwxx-stats.vercel.app/api/top-langs/?username=yigtwxx&layout=compact&langs_count=8&card_width=455&theme=algolia&hide=c,c%2B%2B,dart,cmake" alt="Most Used Languages"/></a>
 </div>
