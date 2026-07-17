@@ -1,34 +1,34 @@
 *I build AI features end to end: the model, the service that serves it, and the interface on top — prototype to production, without a handoff. Much of my work is local-first by default, so retrieval and inference run on your own infrastructure and customer data never leaves it. My fixes are merged into n8n and openclaw, mostly the unglamorous kind — a silent data-loss bug, a cross-platform breakage, a missing CI pipeline — each one pinned with a regression test. I'd rather ship what survives production than what demos well.*
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QxNnhpaGR3YzlrdWJtMWppODR6ZjNwaXkyNWN1bzFkc3d4MGwyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/67ThRZlYBvibtdF9JH/giphy.gif" />
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QxNnhpaGR3YzlrdWJtMWppODR6ZjNwaXkyNWN1bzFkc3d4MGwyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/67ThRZlYBvibtdF9JH/giphy.gif" alt="" />
 
 <p align="left">
   <a href="mailto:yigiterdogan023@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
   
   <a href="https://www.reddit.com/user/yigtwx7/" target="_blank">
-    <img src="https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="reddit" /></a>&nbsp;
   
   <a href="https://www.linkedin.com/in/yigit-erdogan0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 
   <a href="https://x.com/Yigtwx" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
 
   <a href="https://www.instagram.com/yigtwx/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 
   <a href="https://www.youtube.com/@Yigtwx" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-ffffff?style=for-the-badge&logo=youtube&logoColor=red" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/YouTube-ffffff?style=for-the-badge&logo=youtube&logoColor=red" alt="YouTube" /></a>&nbsp;
 
   <a href="https://dev.to/yigtwx" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>&nbsp;
 
   <a href="https://news.ycombinator.com/user?id=Yigtwx" target="_blank">
-    <img src="https://img.shields.io/badge/ycombinator-FF7F00?style=for-the-badge&logo=ycombinator&logoColor=white" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/ycombinator-FF7F00?style=for-the-badge&logo=ycombinator&logoColor=white" alt="ycombinator" /></a>&nbsp;
 
   <a href="https://github.com/Yigtwxx/Yigtwxx/raw/main/assets/Yigit_ERDOGAN_CV.pdf">
-    <img src="https://img.shields.io/badge/Download%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/Download%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Download CV" /></a>&nbsp;
 </p>
 
 ### What I'm up to
@@ -42,27 +42,27 @@
 <table>
   <tr>
     <td width="120" valign="middle"><b>AI / ML</b></td>
-    <td width="731"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMyAzMyI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0ibTE4LjQ0NSA0LjQwNi05LjQ2OCAxMy43NCA3LjM0MS42NjUtMS42OSA5LjU3OCA5LjQ2OS0xMy43NC03LjM0Mi0uNjY0IDEuNjktOS41NzlaIi8%2BPC9zdmc%2B" /></td>
+    <td width="731"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMyAzMyI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0ibTE4LjQ0NSA0LjQwNi05LjQ2OCAxMy43NCA3LjM0MS42NjUtMS42OSA5LjU3OCA5LjQ2OS0xMy43NC03LjM0Mi0uNjY0IDEuNjktOS41NzlaIi8%2BPC9zdmc%2B" alt="Groq" /></td>
   </tr>
   <tr>
     <td width="120" valign="middle"><b>RAG / Data</b></td>
-    <td width="731"><img src="https://img.shields.io/badge/Chroma-1A1A1A?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMjA5IDEzNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZWxsaXBzZSBjeD0iMTM2LjAxOSIgY3k9IjY3LjIzMDQiIHJ4PSI2Ni42NjY3IiByeT0iNjQiIGZpbGw9IiNGRkRFMkQiLz48ZWxsaXBzZSBjeD0iNjkuMzUyIiBjeT0iNjcuMjMwNCIgcng9IjY2LjY2NjciIHJ5PSI2NCIgZmlsbD0iIzMyN0VGRiIvPjxwYXRoIGQ9Ik0yLjY4NTI4IDY3LjIzMDRDMi42ODUyNyAzMS44ODQyIDMyLjUzMjkgMy4yMzA0NyA2OS4zNTE5IDMuMjMwNDdMNjkuMzUxOSA2Ny4yMzA0TDIuNjg1MjggNjcuMjMwNFoiIGZpbGw9IiMzMjdFRkYiLz48cGF0aCBkPSJNMTM2LjAxOSA2Ny4yMzA1QzEzNi4wMTkgMTAyLjU3NyAxMDYuMTcxIDEzMS4yMyA2OS4zNTE5IDEzMS4yM0w2OS4zNTE5IDY3LjIzMDVMMTM2LjAxOSA2Ny4yMzA1WiIgZmlsbD0iI0ZGNjQ0NiIvPjxwYXRoIGQ9Ik02OS4zNTIgNjcuMjMwNEM2OS4zNTIgMzEuODg0MiA5OS4xOTk3IDMuMjMwNDcgMTM2LjAxOSAzLjIzMDQ3TDEzNi4wMTkgNjcuMjMwNEw2OS4zNTIgNjcuMjMwNFoiIGZpbGw9IiNGRjY0NDYiLz48L3N2Zz4%3D" /> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></td>
+    <td width="731"><img src="https://img.shields.io/badge/Chroma-1A1A1A?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMjA5IDEzNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZWxsaXBzZSBjeD0iMTM2LjAxOSIgY3k9IjY3LjIzMDQiIHJ4PSI2Ni42NjY3IiByeT0iNjQiIGZpbGw9IiNGRkRFMkQiLz48ZWxsaXBzZSBjeD0iNjkuMzUyIiBjeT0iNjcuMjMwNCIgcng9IjY2LjY2NjciIHJ5PSI2NCIgZmlsbD0iIzMyN0VGRiIvPjxwYXRoIGQ9Ik0yLjY4NTI4IDY3LjIzMDRDMi42ODUyNyAzMS44ODQyIDMyLjUzMjkgMy4yMzA0NyA2OS4zNTE5IDMuMjMwNDdMNjkuMzUxOSA2Ny4yMzA0TDIuNjg1MjggNjcuMjMwNFoiIGZpbGw9IiMzMjdFRkYiLz48cGF0aCBkPSJNMTM2LjAxOSA2Ny4yMzA1QzEzNi4wMTkgMTAyLjU3NyAxMDYuMTcxIDEzMS4yMyA2OS4zNTE5IDEzMS4yM0w2OS4zNTE5IDY3LjIzMDVMMTM2LjAxOSA2Ny4yMzA1WiIgZmlsbD0iI0ZGNjQ0NiIvPjxwYXRoIGQ9Ik02OS4zNTIgNjcuMjMwNEM2OS4zNTIgMzEuODg0MiA5OS4xOTk3IDMuMjMwNDcgMTM2LjAxOSAzLjIzMDQ3TDEzNi4wMTkgNjcuMjMwNEw2OS4zNTIgNjcuMjMwNFoiIGZpbGw9IiNGRjY0NDYiLz48L3N2Zz4%3D" alt="Chroma" /> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" /></td>
   </tr>
   <tr>
     <td width="120" valign="middle"><b>Backend</b></td>
-    <td width="731"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" /> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" /> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" /></td>
+    <td width="731"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" /> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" /> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" /></td>
   </tr>
   <tr>
     <td width="120" valign="middle"><b>Frontend</b></td>
-    <td width="731"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /></td>
+    <td width="731"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /></td>
   </tr>
   <tr>
     <td width="120" valign="middle"><b>DevOps</b></td>
-    <td width="731"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" /></td>
+    <td width="731"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white" alt="Caddy" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" /> <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" /></td>
   </tr>
   <tr>
     <td width="120" valign="middle"><b>Security</b></td>
-    <td width="731"><img src="https://img.shields.io/badge/CodeQL-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white" /> <img src="https://img.shields.io/badge/Dependabot-025E8C?style=flat-square&logo=dependabot&logoColor=white" /></td>
+    <td width="731"><img src="https://img.shields.io/badge/CodeQL-181717?style=flat-square&logo=github&logoColor=white" alt="CodeQL" /> <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white" alt="Trivy" /> <img src="https://img.shields.io/badge/Dependabot-025E8C?style=flat-square&logo=dependabot&logoColor=white" alt="Dependabot" /></td>
   </tr>
 </table>
 
