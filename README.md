@@ -27,7 +27,7 @@
   <a href="https://news.ycombinator.com/user?id=Yigtwx" target="_blank">
     <img src="https://img.shields.io/badge/ycombinator-FF7F00?style=for-the-badge&logo=ycombinator&logoColor=white" /></a>&nbsp;
 
-  <a href="https://github.com/user-attachments/files/24191545/Yigit_ERDOGAN_CV.pdf">
+  <a href="https://github.com/Yigtwxx/Yigtwxx/raw/main/assets/Yigit_ERDOGAN_CV.pdf">
     <img src="https://img.shields.io/badge/Download%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /></a>&nbsp;
 </p>
 
@@ -39,13 +39,28 @@
 
 ### Tech Stack
 
-|  |  |
-| :--- | :--- |
-| **AI / ML** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" /> |
-| **RAG / Data** | <img src="https://img.shields.io/badge/Chroma-FF6B35?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> |
-| **Backend** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" /> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" /> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" /> |
-| **Frontend** | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> |
-| **DevOps** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> |
+<table>
+  <tr>
+    <td width="120" valign="middle"><b>AI / ML</b></td>
+    <td width="731"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td width="120" valign="middle"><b>RAG / Data</b></td>
+    <td width="731"><img src="https://img.shields.io/badge/Chroma-FF6B35?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td width="120" valign="middle"><b>Backend</b></td>
+    <td width="731"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" /> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" /> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td width="120" valign="middle"><b>Frontend</b></td>
+    <td width="731"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td width="120" valign="middle"><b>DevOps</b></td>
+    <td width="731"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /></td>
+  </tr>
+</table>
 
 ### Open Source Contributions
 
@@ -67,12 +82,12 @@
 
 
 <div align="left">
-  <h2> 🐍 My Contributions</h2>
+  <h2>  My Contributions</h2>
   <img width="100%" src="https://raw.githubusercontent.com/Yigtwxx/Yigtwxx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="left">
-  <h2> 📊 GitHub Stats </h2>
-  <a href="https://github.com/yigtwxx"><img width="49%" src="https://yigtwxx-stats.vercel.app/api?username=yigtwxx&show_icons=true&theme=algolia&include_all_commits=true" alt="GitHub Stats"/></a>
-  <a href="https://github.com/yigtwxx"><img width="49%" src="https://yigtwxx-stats.vercel.app/api/top-langs/?username=yigtwxx&layout=compact&langs_count=8&card_width=455&theme=algolia&hide=c,c%2B%2B,dart,cmake" alt="Most Used Languages"/></a>
+  <h2>  GitHub Stats </h2>
+  <a href="https://github.com/Yigtwxx"><img width="49%" src="https://yigtwxx-stats.vercel.app/api?username=Yigtwxx&show_icons=true&theme=algolia&include_all_commits=true" alt="GitHub Stats"/></a>
+  <a href="https://github.com/Yigtwxx"><img width="49%" src="https://yigtwxx-stats.vercel.app/api/top-langs/?username=Yigtwxx&layout=compact&langs_count=8&card_width=455&theme=algolia&hide=c,c%2B%2B,dart,cmake" alt="Most Used Languages"/></a>
 </div>
