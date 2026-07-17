@@ -78,9 +78,6 @@
 
 - **[Juliusolsson05/pharos-ai](https://github.com/Juliusolsson05/pharos-ai):** Developed an end-to-end RAG-powered Intel Assistant widget with pgvector integration and streaming responses via Vercel AI SDK, so users can query the conflict intelligence database in natural language and get answers grounded in indexed events, actor profiles, and daily briefs ([PR #20](https://github.com/Juliusolsson05/pharos-ai/pull/20)) &nbsp;<img src="https://img.shields.io/github/stars/Juliusolsson05/pharos-ai?style=social" alt="stars" valign="middle">
 
-- **[Awesome RAG Production](https://github.com/Yigtwxx/Awesome-RAG-Production):** My curated list of production RAG tooling — accepted into [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ([PR #1131](https://github.com/josephmisiti/awesome-machine-learning/pull/1131)) &nbsp;<img src="https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=social" alt="stars" valign="middle"> **|** [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ([PR #300](https://github.com/steven2358/awesome-generative-ai/pull/300)) &nbsp;<img src="https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=social" alt="stars" valign="middle">
-
-
 <div align="left">
   <h2>  My Contributions</h2>
   <img width="100%" src="https://raw.githubusercontent.com/Yigtwxx/Yigtwxx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
