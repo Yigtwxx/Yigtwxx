@@ -77,7 +77,7 @@
   <h2> 📊 GitHub Stats </h2>
   <a href="https://github.com/yigtwxx">
     <img height="165" src="https://yigtwxx-stats.vercel.app/api?username=yigtwxx&show_icons=true&theme=algolia&include_all_commits=true"/>
-  </a>&nbsp
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/yigtwxx">
     <img height="165" src="https://yigtwxx-stats.vercel.app/api/top-langs/?username=yigtwxx&layout=compact&langs_count=8&card_width=450&theme=algolia&hide=c,c%2B%2B,dart,cmake"/>
   </a>
