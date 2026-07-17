@@ -68,7 +68,7 @@
 
 ### Open Source Contributions
 
-- **[openclaw/openclaw](https://github.com/openclaw/openclaw):** On non-CJK Windows locales the managed Gateway installed but never started — its generated `.cmd` launcher was written in UTF-8 instead of the system's boot-time OEM code page. P0 release blocker. ([PR #108967](https://github.com/openclaw/openclaw/pull/108967)) &nbsp;<img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="stars" valign="middle">
+- **[openclaw/openclaw](https://github.com/openclaw/openclaw):** On non-CJK Windows locales the managed Gateway installed but never started — its generated `.cmd` launcher was written in UTF-8 instead of the system's boot-time OEM code page. P0 release blocker. ([PR #108967](https://github.com/openclaw/openclaw/pull/108967)) **|** Staged compaction re-added the previous summary to the merged result whenever any *later* split degraded, even though chunk 0 already carried it — so the summary grew a copy of itself every cycle and burned tokens on each turn. Fixed by keying the fallback stamp on whether the *oldest* split degraded — the one signal the consumer actually needs — with an end-to-end regression test ([PR #109828](https://github.com/openclaw/openclaw/pull/109828)) &nbsp;<img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="stars" valign="middle">
 
 - **[n8n-io/n8n](https://github.com/n8n-io/n8n):** The Salesforce node silently discarded Case `ParentId` on create and update: the handlers read `parentId`, the field is defined `ParentId`. Fixed with regression tests. ([PR #33775](https://github.com/n8n-io/n8n/pull/33775)) &nbsp;<img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social" alt="stars" valign="middle">
 
