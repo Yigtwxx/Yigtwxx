@@ -86,8 +86,11 @@
   - **Every Salesforce Case given a Parent ID through the node still landed with `ParentId: null`** — the handlers read `parentId`, the field is defined `ParentId`. Backward-compatible fix; two existing tests had mirrored the bug and were corrected ([PR #33775](https://github.com/n8n-io/n8n/pull/33775))
 
 <details>
-<summary><b>More contributions</b> — worldmonitor, planning-with-files, QwenPaw, ai-job-search, pharos-ai</summary>
+<summary><b>More contributions</b> — clawhub, worldmonitor, planning-with-files, QwenPaw, ai-job-search, pharos-ai</summary>
 <br>
+
+- **[openclaw/clawhub](https://github.com/openclaw/clawhub)** &nbsp;<img src="https://img.shields.io/github/stars/openclaw/clawhub?style=social" alt="stars" valign="middle">
+  - **A listing untouched for just under a year read "Updated 12mo ago" instead of "1y ago"** across skill rows, browse results, plugin detail, the dashboard and the GitHub sync timestamp: `timeAgo` measures months as 30 days but years as 365, and 360–364 days still divides into twelve whole months while sitting below the year threshold. Aligned with the publisher-profile renderer by deriving years from whole months, removing the unit mismatch at its source — with the first tests for a file that had none despite being inside the coverage `include` list ([PR #3174](https://github.com/openclaw/clawhub/pull/3174))
 
 - **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** &nbsp;<img src="https://img.shields.io/github/stars/koala73/worldmonitor?style=social" alt="stars" valign="middle">
   - **Designed and prototyped the client-side RAG pipeline that gave AI intelligence briefs historical context** — embeddings and cosine similarity running in a Web Worker over an IndexedDB vector store, so retrieval needs no server-side index. My prototype ([PR #647](https://github.com/koala73/worldmonitor/pull/647)) was reworked by the maintainer and shipped as [PR #675](https://github.com/koala73/worldmonitor/pull/675)
