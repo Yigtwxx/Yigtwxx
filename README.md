@@ -72,7 +72,7 @@
 ### Open Source Contributions
 
 <details>
-<summary><b><a href="https://github.com/openclaw/openclaw">openclaw/openclaw</a></b> &nbsp;<img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="stars" valign="middle"></summary>
+<summary><b><a href="https://github.com/openclaw/openclaw">openclaw/openclaw</a></b> &nbsp;<img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 12 merged</summary>
 <br>
 
 - **P0 release blocker: OpenClaw installed but the managed Gateway never started** for Windows users whose profile path holds non-ASCII characters outside the CJK range — the generated `.cmd` launcher was written in UTF-8, but `cmd.exe` parses batch files with the boot-time OEM code page. Fixed across 15 OEM code pages; verified on a Turkish host (`ev-yiğit-öğün`, ACP 1254 / OEMCP 857) going from `MODULE_NOT_FOUND` to a clean start, with byte-identical output on CJK hosts ([PR #108967](https://github.com/openclaw/openclaw/pull/108967))
@@ -91,7 +91,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/huggingface/transformers">huggingface/transformers</a></b> &nbsp;<img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" alt="stars" valign="middle"></summary>
+<summary><b><a href="https://github.com/huggingface/transformers">huggingface/transformers</a></b> &nbsp;<img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 1 merged</summary>
 <br>
 
 - **Anyone fine-tuning GIT since v4.49.0 trained it to predict two tokens ahead** — `GitForCausalLM` shifted its labels by hand and then passed them positionally, so `shift_labels` stayed `None` and the loss helper shifted a second time; because the manual shift flattened to 1-D first, the pad-and-slice kept shapes consistent (`N → N+1 → N`), nothing raised, and each row's final target was silently pulled in from the next row in the batch. GIT can't simply drop the manual shift the way the earlier Moonshine fix did — its logits carry leading image positions that must be sliced regardless — so `shift_labels` is passed explicitly, on 2-D tensors, which also removes the cross-row leak. Loss went from `4.5848` (matching the double shift) to `4.6461`, exactly the aligned cross-entropy ([PR #47395](https://github.com/huggingface/transformers/pull/47395))
@@ -99,7 +99,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/n8n-io/n8n">n8n-io/n8n</a></b> &nbsp;<img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social" alt="stars" valign="middle"></summary>
+<summary><b><a href="https://github.com/n8n-io/n8n">n8n-io/n8n</a></b> &nbsp;<img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 1 merged</summary>
 <br>
 
 - **Every Salesforce Case given a Parent ID still landed with `ParentId: null`, and the node reported success** — the field is declared `ParentId` in the node description, but both the create and update handlers read the lowercase `parentId` off the collection, so the key was always `undefined` and the parent was never put on the request. Nothing surfaced the loss: Salesforce was simply never told. Reading the correctly-cased key restores it with no migration, since saved workflows already store the value under `ParentId` — and the two existing tests that had mirrored the buggy lowercase key were corrected alongside new regression tests pinning create and update ([PR #33775](https://github.com/n8n-io/n8n/pull/33775))
@@ -107,7 +107,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/openclaw/clawhub">openclaw/clawhub</a></b> &nbsp;<img src="https://img.shields.io/github/stars/openclaw/clawhub?style=social" alt="stars" valign="middle"></summary>
+<summary><b><a href="https://github.com/openclaw/clawhub">openclaw/clawhub</a></b> &nbsp;<img src="https://img.shields.io/github/stars/openclaw/clawhub?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 1 merged</summary>
 <br>
 
 - **A listing untouched for just under a year read "Updated 12mo ago" instead of "1y ago"** across skill rows, browse results, plugin detail, the dashboard and the GitHub sync timestamp: `timeAgo` measures months as 30 days but years as 365, and 360–364 days still divides into twelve whole months while sitting below the year threshold. Aligned with the publisher-profile renderer by deriving years from whole months, removing the unit mismatch at its source — with the first tests for a file that had none despite being inside the coverage `include` list ([PR #3174](https://github.com/openclaw/clawhub/pull/3174))
@@ -115,7 +115,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/koala73/worldmonitor">koala73/worldmonitor</a></b> &nbsp;<img src="https://img.shields.io/github/stars/koala73/worldmonitor?style=social" alt="stars" valign="middle"></summary>
+<summary><b><a href="https://github.com/koala73/worldmonitor">koala73/worldmonitor</a></b> &nbsp;<img src="https://img.shields.io/github/stars/koala73/worldmonitor?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; prototype</summary>
 <br>
 
 - **Designed and prototyped the client-side RAG pipeline that gave AI intelligence briefs historical context** — embeddings and cosine similarity running in a Web Worker over an IndexedDB vector store, so retrieval needs no server-side index. My prototype ([PR #647](https://github.com/koala73/worldmonitor/pull/647)) was reworked by the maintainer and shipped as [PR #675](https://github.com/koala73/worldmonitor/pull/675)
@@ -123,7 +123,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/OthmanAdi/planning-with-files">OthmanAdi/planning-with-files</a></b> &nbsp;<img src="https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=social" alt="stars" valign="middle"></summary>
+<summary><b><a href="https://github.com/OthmanAdi/planning-with-files">OthmanAdi/planning-with-files</a></b> &nbsp;<img src="https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 3 merged</summary>
 <br>
 
 - **Gave the project its first automated test run:** CI until then only reviewed skill prose, never behavior — now pytest across Ubuntu and Windows plus vitest for the Pi extension, on every PR and push to master ([PR #199](https://github.com/OthmanAdi/planning-with-files/pull/199))
@@ -133,7 +133,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/agentscope-ai/QwenPaw">agentscope-ai/QwenPaw</a></b> &nbsp;<img src="https://img.shields.io/github/stars/agentscope-ai/QwenPaw?style=social" alt="stars" valign="middle"></summary>
+<summary><b><a href="https://github.com/agentscope-ai/QwenPaw">agentscope-ai/QwenPaw</a></b> &nbsp;<img src="https://img.shields.io/github/stars/agentscope-ai/QwenPaw?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 2 merged</summary>
 <br>
 
 - **A shutdown during boot could wipe every recorded day of token usage, silently** — cancel the consumer while it is still reading the file (Ctrl-C, `uvicorn --reload`, a quick restart) and `stop()` force-flushes a cache that was never seeded, committing `{}` over `token_usage.json` through an atomic `os.replace()` with no backup and nothing logged. The window only opens for users who have history to lose. Pinned by a regression test and a positive control ([PR #6220](https://github.com/agentscope-ai/QwenPaw/pull/6220))
@@ -142,7 +142,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/MadsLorentzen/ai-job-search">MadsLorentzen/ai-job-search</a></b> &nbsp;<img src="https://img.shields.io/github/stars/MadsLorentzen/ai-job-search?style=social" alt="stars" valign="middle"></summary>
+<summary><b><a href="https://github.com/MadsLorentzen/ai-job-search">MadsLorentzen/ai-job-search</a></b> &nbsp;<img src="https://img.shields.io/github/stars/MadsLorentzen/ai-job-search?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 2 merged</summary>
 <br>
 
 - **Hex-encoded accents leaked into the LinkedIn scraper's CLI output as raw entities, and emoji came out mangled in every form** — the decoder handled decimal entities only, and `String.fromCharCode` truncated supplementary-plane code points to 16 bits. 1 of 6 fixture cases passed before, 6 of 6 after, under network-free unit tests ([PR #55](https://github.com/MadsLorentzen/ai-job-search/pull/55))
