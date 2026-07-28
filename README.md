@@ -150,14 +150,6 @@
 
 </details>
 
-<details>
-<summary><b><a href="https://github.com/Juliusolsson05/pharos-ai">Juliusolsson05/pharos-ai</a></b> &nbsp;<img src="https://img.shields.io/github/stars/Juliusolsson05/pharos-ai?style=social" alt="stars" valign="middle"></summary>
-<br>
-
-- **Shipped the Intel Assistant chat widget end to end** — pgvector cosine-similarity retrieval over indexed conflict data, with GPT-4o answers streamed to the client via the Vercel AI SDK ([PR #20](https://github.com/Juliusolsson05/pharos-ai/pull/20))
-
-</details>
-
 <div align="left">
   <h2>  My Contributions</h2>
   <img width="100%" src="https://raw.githubusercontent.com/Yigtwxx/Yigtwxx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
