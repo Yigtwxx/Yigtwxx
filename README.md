@@ -99,10 +99,11 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/n8n-io/n8n">n8n-io/n8n</a></b> &nbsp;<img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 1 merged</summary>
+<summary><b><a href="https://github.com/n8n-io/n8n">n8n-io/n8n</a></b> &nbsp;<img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 2 merged</summary>
 <br>
 
 - **Every Salesforce Case given a Parent ID still landed with `ParentId: null`, and the node reported success** — the field is declared `ParentId` in the node description, but both the create and update handlers read the lowercase `parentId` off the collection, so the key was always `undefined` and the parent was never put on the request. Nothing surfaced the loss: Salesforce was simply never told. Reading the correctly-cased key restores it with no migration, since saved workflows already store the value under `ParentId` — and the two existing tests that had mirrored the buggy lowercase key were corrected alongside new regression tests pinning create and update ([PR #33775](https://github.com/n8n-io/n8n/pull/33775))
+- **An AI agent whose HTTP tool call failed was told the status code and nothing else** — never the server's own explanation, so a 403 carrying `{"error":"insufficient_scope","required":"read:users"}` reached the model as a bare "Forbidden" and it retried blind instead of correcting the request. The tool built its response from `httpCode` plus `error.message`, which left the branch that returns the body unreachable. Confirmed against a real `NodeApiError` assembled from an axios-shaped 403: `cause` and `response` both come back `undefined` while the body sits untouched on `context.data` — the payload was present the whole time, just never forwarded. The body now reaches the model, bounded on every axis that could turn a failure into a worse one: truncated so a long error can't eat the context window, binary and empty payloads skipped, credential-shaped values masked with the redaction patterns n8n already applies to skill tool output rather than a scheme invented for this path, and a serializer that cannot itself throw while an error is being handled ([PR #34509](https://github.com/n8n-io/n8n/pull/34509))
 
 </details>
 
