@@ -118,9 +118,10 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/koala73/worldmonitor">koala73/worldmonitor</a></b> &nbsp;<img src="https://img.shields.io/github/stars/koala73/worldmonitor?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; prototype</summary>
+<summary><b><a href="https://github.com/koala73/worldmonitor">koala73/worldmonitor</a></b> &nbsp;<img src="https://img.shields.io/github/stars/koala73/worldmonitor?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 1 merged &middot; prototype</summary>
 <br>
 
+- **A model ID the provider does not serve cost a wasted round-trip on every single call, indefinitely** — the health gate probed `new URL(apiUrl).origin` with a bare GET and read any HTTP response as healthy, so it never saw `creds.model`: the request was built, rejected with `http_4xx`, and fell through to the next provider, with nothing in the logs pointing at the model as the cause. The evidence was already being collected and discarded — both provider loops read the error body for diagnostics and log the model beside it. Feeding that back into the gate quarantines the `origin|model` pair for 10 minutes after two *consecutive* rejections whose body explicitly names the model, at no new network cost. Detection is deliberately narrow: 401/403/429/5xx are credentials, rate limits and outages — provider-wide and silent about the model ID — so they never quarantine, and an unreadable body keeps the previous behaviour, making the fail-safe the status quo rather than a wrongly quarantined model. Pinned by a behavioural test that sends four calls at a dead model: 4 attempts against `main`, 2 here ([PR #5458](https://github.com/koala73/worldmonitor/pull/5458))
 - **Designed and prototyped the client-side RAG pipeline that gave AI intelligence briefs historical context** — embeddings and cosine similarity running in a Web Worker over an IndexedDB vector store, so retrieval needs no server-side index. My prototype ([PR #647](https://github.com/koala73/worldmonitor/pull/647)) was reworked by the maintainer and shipped as [PR #675](https://github.com/koala73/worldmonitor/pull/675)
 
 </details>
