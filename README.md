@@ -93,14 +93,6 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/huggingface/transformers">huggingface/transformers</a></b> &nbsp;<img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 1 merged</summary>
-<br>
-
-- **Anyone fine-tuning GIT since v4.49.0 trained it to predict two tokens ahead** — `GitForCausalLM` shifted its labels by hand and then passed them positionally, so `shift_labels` stayed `None` and the loss helper shifted a second time; because the manual shift flattened to 1-D first, the pad-and-slice kept shapes consistent (`N → N+1 → N`), nothing raised, and each row's final target was silently pulled in from the next row in the batch. GIT can't simply drop the manual shift the way the earlier Moonshine fix did — its logits carry leading image positions that must be sliced regardless — so `shift_labels` is passed explicitly, on 2-D tensors, which also removes the cross-row leak. Loss went from `4.5848` (matching the double shift) to `4.6461`, exactly the aligned cross-entropy ([PR #47395](https://github.com/huggingface/transformers/pull/47395))
-
-</details>
-
-<details>
 <summary><b><a href="https://github.com/n8n-io/n8n">n8n-io/n8n</a></b> &nbsp;<img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 2 merged</summary>
 <br>
 
@@ -110,10 +102,10 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/openclaw/clawhub">openclaw/clawhub</a></b> &nbsp;<img src="https://img.shields.io/github/stars/openclaw/clawhub?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 1 merged</summary>
+<summary><b><a href="https://github.com/huggingface/transformers">huggingface/transformers</a></b> &nbsp;<img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 1 merged</summary>
 <br>
 
-- **A listing untouched for just under a year read "Updated 12mo ago" instead of "1y ago"** across skill rows, browse results, plugin detail, the dashboard and the GitHub sync timestamp: `timeAgo` measures months as 30 days but years as 365, and 360–364 days still divides into twelve whole months while sitting below the year threshold. Aligned with the publisher-profile renderer by deriving years from whole months, removing the unit mismatch at its source — with the first tests for a file that had none despite being inside the coverage `include` list ([PR #3174](https://github.com/openclaw/clawhub/pull/3174))
+- **Anyone fine-tuning GIT since v4.49.0 trained it to predict two tokens ahead** — `GitForCausalLM` shifted its labels by hand and then passed them positionally, so `shift_labels` stayed `None` and the loss helper shifted a second time; because the manual shift flattened to 1-D first, the pad-and-slice kept shapes consistent (`N → N+1 → N`), nothing raised, and each row's final target was silently pulled in from the next row in the batch. GIT can't simply drop the manual shift the way the earlier Moonshine fix did — its logits carry leading image positions that must be sliced regardless — so `shift_labels` is passed explicitly, on 2-D tensors, which also removes the cross-row leak. Loss went from `4.5848` (matching the double shift) to `4.6461`, exactly the aligned cross-entropy ([PR #47395](https://github.com/huggingface/transformers/pull/47395))
 
 </details>
 
@@ -123,16 +115,6 @@
 
 - **A model ID the provider does not serve cost a wasted round-trip on every single call, indefinitely** — the health gate probed `new URL(apiUrl).origin` with a bare GET and read any HTTP response as healthy, so it never saw `creds.model`: the request was built, rejected with `http_4xx`, and fell through to the next provider, with nothing in the logs pointing at the model as the cause. The evidence was already being collected and discarded — both provider loops read the error body for diagnostics and log the model beside it. Feeding that back into the gate quarantines the `origin|model` pair for 10 minutes after two *consecutive* rejections whose body explicitly names the model, at no new network cost. Detection is deliberately narrow: 401/403/429/5xx are credentials, rate limits and outages — provider-wide and silent about the model ID — so they never quarantine, and an unreadable body keeps the previous behaviour, making the fail-safe the status quo rather than a wrongly quarantined model. Pinned by a behavioural test that sends four calls at a dead model: 4 attempts against `main`, 2 here ([PR #5458](https://github.com/koala73/worldmonitor/pull/5458))
 - **Designed and prototyped the client-side RAG pipeline that gave AI intelligence briefs historical context** — embeddings and cosine similarity running in a Web Worker over an IndexedDB vector store, so retrieval needs no server-side index. My prototype ([PR #647](https://github.com/koala73/worldmonitor/pull/647)) was reworked by the maintainer and shipped as [PR #675](https://github.com/koala73/worldmonitor/pull/675)
-
-</details>
-
-<details>
-<summary><b><a href="https://github.com/OthmanAdi/planning-with-files">OthmanAdi/planning-with-files</a></b> &nbsp;<img src="https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 3 merged</summary>
-<br>
-
-- **Gave the project its first automated test run:** CI until then only reviewed skill prose, never behavior — now pytest across Ubuntu and Windows plus vitest for the Pi extension, on every PR and push to master ([PR #199](https://github.com/OthmanAdi/planning-with-files/pull/199))
-- **Running that suite on hosted runners exposed two latent cross-platform test failures** — a Git Bash path-alias mismatch on Windows and Windows-shaped sanitizer vectors executing on POSIX. Fixed test-side, no production changes, and landed first so the CI PR could go green ([PR #198](https://github.com/OthmanAdi/planning-with-files/pull/198))
-- **Made those runs reproducible:** committed a lockfile for the Pi extension and switched the vitest job to `npm ci` ([PR #200](https://github.com/OthmanAdi/planning-with-files/pull/200))
 
 </details>
 
@@ -151,6 +133,24 @@
 
 - **Hex-encoded accents leaked into the LinkedIn scraper's CLI output as raw entities, and emoji came out mangled in every form** — the decoder handled decimal entities only, and `String.fromCharCode` truncated supplementary-plane code points to 16 bits. 1 of 6 fixture cases passed before, 6 of 6 after, under network-free unit tests ([PR #55](https://github.com/MadsLorentzen/ai-job-search/pull/55))
 - **Same bug in both duplicated decoders of the Jobindex scraper**, where it matters more: on a Danish portal `æ`/`ø`/`å` frequently arrive as numeric entities, and their hex forms rendered broken ([PR #56](https://github.com/MadsLorentzen/ai-job-search/pull/56))
+
+</details>
+
+<details>
+<summary><b><a href="https://github.com/OthmanAdi/planning-with-files">OthmanAdi/planning-with-files</a></b> &nbsp;<img src="https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 3 merged</summary>
+<br>
+
+- **Gave the project its first automated test run:** CI until then only reviewed skill prose, never behavior — now pytest across Ubuntu and Windows plus vitest for the Pi extension, on every PR and push to master ([PR #199](https://github.com/OthmanAdi/planning-with-files/pull/199))
+- **Running that suite on hosted runners exposed two latent cross-platform test failures** — a Git Bash path-alias mismatch on Windows and Windows-shaped sanitizer vectors executing on POSIX. Fixed test-side, no production changes, and landed first so the CI PR could go green ([PR #198](https://github.com/OthmanAdi/planning-with-files/pull/198))
+- **Made those runs reproducible:** committed a lockfile for the Pi extension and switched the vitest job to `npm ci` ([PR #200](https://github.com/OthmanAdi/planning-with-files/pull/200))
+
+</details>
+
+<details>
+<summary><b><a href="https://github.com/openclaw/clawhub">openclaw/clawhub</a></b> &nbsp;<img src="https://img.shields.io/github/stars/openclaw/clawhub?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 1 merged</summary>
+<br>
+
+- **A listing untouched for just under a year read "Updated 12mo ago" instead of "1y ago"** across skill rows, browse results, plugin detail, the dashboard and the GitHub sync timestamp: `timeAgo` measures months as 30 days but years as 365, and 360–364 days still divides into twelve whole months while sitting below the year threshold. Aligned with the publisher-profile renderer by deriving years from whole months, removing the unit mismatch at its source — with the first tests for a file that had none despite being inside the coverage `include` list ([PR #3174](https://github.com/openclaw/clawhub/pull/3174))
 
 </details>
 
