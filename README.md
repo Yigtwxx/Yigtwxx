@@ -3,7 +3,7 @@
 
 *I build AI features end to end: the model, the service that serves it, and the interface on top — prototype to production, without a handoff. Much of my work is local-first by default, so retrieval and inference run on your own infrastructure and customer data never leaves it. My fixes are merged into n8n and openclaw, mostly the unglamorous kind — a silent data-loss bug, a cross-platform breakage, a missing CI pipeline — each one pinned with a regression test. I'd rather ship what survives production than what demos well.*
 
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzllbzVwb3ZmcWoyczcwZTcxaGszeGZjdWU4ZG1saXUyMjQ1ZW84cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rcfgiyRUsKJDKvrDjK/giphy.gif" alt="" />
+<img align="right" width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NiY2xwOWZ4bW5qYnVtYjByNHZ4c2Y1Z3ozMnJwajY3YnY3N3lhbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wgKDTcjWHrsLb8loKQ/giphy.gif" alt="" />
 
 <p align="left">
   <a href="mailto:yigiterdogan023@gmail.com">
