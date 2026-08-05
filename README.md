@@ -24,17 +24,14 @@
 <img width="100%" height="1" src="https://raw.githubusercontent.com/Yigtwxx/Yigtwxx/main/assets/divider.svg" alt="" />
 
 <p align="left">
-  <a href="mailto:yigiterdogan023@gmail.com" title="Email"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/yigit-erdogan0/" target="_blank" title="LinkedIn"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/Yigtwx" target="_blank" title="X"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://dev.to/yigtwx" target="_blank" title="dev.to"><img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
-  <a href="https://news.ycombinator.com/user?id=Yigtwx" target="_blank" title="Hacker News"><img src="https://img.shields.io/badge/-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white" alt="Hacker News" /></a>
-  <a href="https://www.reddit.com/user/yigtwx7/" target="_blank" title="Reddit"><img src="https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
-  <a href="https://www.instagram.com/yigtwx/" target="_blank" title="Instagram"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Yigtwxx/Yigtwxx/raw/main/assets/Yigit_ERDOGAN_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Download CV" /></a>
+  <a href="mailto:yigiterdogan023@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/yigit-erdogan0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/Yigtwx" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://dev.to/yigtwx" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+  <a href="https://news.ycombinator.com/user?id=Yigtwx" target="_blank"><img src="https://img.shields.io/badge/Hacker%20News-FF6600?style=flat-square&logo=ycombinator&logoColor=white" alt="Hacker News" /></a>
+  <a href="https://www.reddit.com/user/yigtwx7/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" /></a>
+  <a href="https://www.instagram.com/yigtwx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/Yigtwxx/Yigtwxx/raw/main/assets/Yigit_ERDOGAN_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" alt="Download CV" /></a>
 </p>
 
 ### Tech Stack
