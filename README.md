@@ -5,6 +5,13 @@
 
 <img align="right" height="220" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXNoMzQyN3RsNHN3eGFka3hpenF6OWc5aGFqYTFmNGY5dXJneDd0ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ca42G3XjDh8XLfmcf7/giphy.gif" alt="" />
 
+### What I'm Building
+
+- **[Maestro](https://github.com/Yigtwxx/Maestro):** Your AI agent team. You write one prompt, the agents split the work, and a reviewer checks what they produced.
+- **[J.A.R.V.I.S](https://github.com/Yigtwxx/J.A.R.V.I.S):** Your OSINT analyst. It searches the open web and writes the full report for you, using local models only.
+- **[OracleX](https://github.com/Yigtwxx/OracleX):** Your trading desk. A local Llama reads market news and scores signals for crypto and stocks.
+- **[awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production):** Maintainer. A curated list of RAG tools that hold up in production.
+
 <p align="left">
   <a href="mailto:yigiterdogan023@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
@@ -34,12 +41,6 @@
     <img src="https://img.shields.io/badge/Download%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Download CV" /></a>&nbsp;
 </p>
 
-### What I'm Building
-
-- **[Maestro](https://github.com/Yigtwxx/Maestro):** Your AI agent team. You write one prompt, the agents split the work, and a reviewer checks what they produced.
-- **[J.A.R.V.I.S](https://github.com/Yigtwxx/J.A.R.V.I.S):** Your OSINT analyst. It searches the open web and writes the full report for you, using local models only.
-- **[OracleX](https://github.com/Yigtwxx/OracleX):** Your trading desk. A local Llama reads market news and scores signals for crypto and stocks.
-- **[awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production):** Maintainer. A curated list of RAG tools that hold up in production.
 ### Tech Stack
 
 <table>
