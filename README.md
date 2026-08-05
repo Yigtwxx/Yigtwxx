@@ -34,12 +34,12 @@
     <img src="https://img.shields.io/badge/Download%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Download CV" /></a>&nbsp;
 </p>
 
-### What I'm up to
+### What I'm Building
 
-- **Developing:** [Maestro](https://github.com/Yigtwxx/maestro) — an open-core orchestrator for multi-agent LLM workflows, self-hosted and bring-your-own-key
-- **Focus:** Production RAG, MLOps, and applied ML
-- **Open to:** Collaboration on scalable RAG / LLM systems
-
+- **[Maestro](https://github.com/Yigtwxx/Maestro):** Your AI agent team. You write one prompt, the agents split the work, and a reviewer checks what they produced.
+- **[J.A.R.V.I.S](https://github.com/Yigtwxx/J.A.R.V.I.S):** Your OSINT analyst. It searches the open web and writes the full report for you, using local models only.
+- **[OracleX](https://github.com/Yigtwxx/OracleX):** Your trading desk. A local Llama reads market news and scores signals for crypto and stocks.
+- **[awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production):** Maintainer. A curated list of RAG tools that hold up in production.
 ### Tech Stack
 
 <table>
