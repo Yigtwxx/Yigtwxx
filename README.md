@@ -3,13 +3,11 @@
 
 *I build AI features end to end: the model, the service that serves it, and the interface on top — prototype to production, without a handoff. Much of my work is local-first by default, so retrieval and inference run on your own infrastructure and customer data never leaves it. My fixes are merged into NVIDIA's TensorRT-LLM, Hugging Face transformers, n8n and openclaw, mostly the unglamorous kind — a silent data-loss bug, a cross-platform breakage, a validation guard that let NaN through, a missing CI pipeline — each one pinned with a regression test. I'd rather ship what survives production than what demos well.*
 
-<table align="right">
-  <tr>
-    <td align="center">
-      <img height="220" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXNoMzQyN3RsNHN3eGFka3hpenF6OWc5aGFqYTFmNGY5dXJneDd0ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ca42G3XjDh8XLfmcf7/giphy.gif" alt="" />
-    </td>
-  </tr>
-</table>
+<div align="right">
+  <kbd>
+    <img height="220" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXNoMzQyN3RsNHN3eGFka3hpenF6OWc5aGFqYTFmNGY5dXJneDd0ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ca42G3XjDh8XLfmcf7/giphy.gif" alt="" />
+  </kbd>
+</div>
 
 ### What I'm Building
 
@@ -18,7 +16,7 @@
 - **[OracleX](https://github.com/Yigtwxx/OracleX):** Your trading desk. A local Llama reads market news and scores signals for crypto and stocks.
 - **[awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production):** Maintainer. A curated list of RAG tools that hold up in production.
 
----
+<img width="100%" height="1" src="https://raw.githubusercontent.com/Yigtwxx/Yigtwxx/main/assets/divider.svg" alt="" />
 
 <p align="left">
   <a href="mailto:yigiterdogan023@gmail.com">
