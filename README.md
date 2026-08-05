@@ -16,10 +16,10 @@
 
 ### What I'm Building
 
-- **[Maestro](https://github.com/Yigtwxx/Maestro):** Self-hostable agent orchestration, shipped as an application rather than a library. One prompt in — an Orchestrator routes it, a domain Main Agent plans it, Subagents execute with real tools, a Reviewer audits the output, all streamed live over WebSocket. BYOK vault across 25 chat providers, Postgres-checkpointed runs that resume instead of hanging, per-user RAG memory. Runs free and fully offline on a local model.
-- **[J.A.R.V.I.S](https://github.com/Yigtwxx/J.A.R.V.I.S):** An OSINT workstation. One name in, parallel reconnaissance across 15+ platforms, breach databases and corporate registries, then a local model synthesizes it into a structured dossier — network graph, geographic intelligence, DeepFace biometric matching, exportable as a PDF dossier or Maltego-compatible CSV. Queries and results never leave your network.
-- **[OracleX](https://github.com/Yigtwxx/OracleX):** Equities and digital assets in one terminal. LLM-scored news with per-article research notes, a vector memory that measures what each event actually did across six horizons, modelled liquidation maps and a live price socket fanned out from one upstream connection. 14 LLM providers behind one interface, local-first by default.
-- **[awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production):** Maintainer. A curated list of RAG tooling that holds up in production — the parts that survive real traffic rather than a notebook demo.
+- **[Maestro](https://github.com/Yigtwxx/Maestro):** Your AI agent team. You write one prompt, the agents split the work, and a reviewer checks what they produced.
+- **[J.A.R.V.I.S](https://github.com/Yigtwxx/J.A.R.V.I.S):** Your OSINT analyst. It searches the open web and writes the full report for you, using local models only.
+- **[OracleX](https://github.com/Yigtwxx/OracleX):** Your trading desk. A local Llama reads market news and scores signals for crypto and stocks.
+- **[awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production):** Maintainer. A curated list of RAG tools that hold up in production.
 
 <img width="100%" height="1" src="https://raw.githubusercontent.com/Yigtwxx/Yigtwxx/main/assets/divider.svg" alt="" />
 
