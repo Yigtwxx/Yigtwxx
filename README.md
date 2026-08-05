@@ -33,7 +33,7 @@
   <a href="https://news.ycombinator.com/user?id=Yigtwx" target="_blank"><img src="https://img.shields.io/badge/Hacker%20News-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white" alt="Hacker News" /></a>
   <a href="https://www.reddit.com/user/yigtwx7/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
   <a href="https://www.instagram.com/yigtwx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://github.com/Yigtwxx/Yigtwxx/raw/main/assets/Yigit_ERDOGAN_CV.pdf"><img src="https://img.shields.io/badge/CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="CV" /></a>
+  <a href="https://github.com/Yigtwxx/Yigtwxx/raw/main/assets/Yigit_ERDOGAN_CV.pdf"><img src="https://img.shields.io/badge/Download CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Download CV" /></a>
 </p>
 
 ### Tech Stack
