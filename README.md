@@ -16,10 +16,10 @@
 
 ### What I'm Building
 
-- **[Maestro](https://github.com/Yigtwxx/Maestro):** Your personal agent team.
-- **[J.A.R.V.I.S](https://github.com/Yigtwxx/J.A.R.V.I.S):** Your personal spy and analyst.
-- **[OracleX](https://github.com/Yigtwxx/OracleX):** Your AI-assisted finance terminal.
-- **[awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production):** Maintainer. The production RAG playbook.
+- **[Maestro](https://github.com/Yigtwxx/Maestro):** Your AI agent team. You write one prompt, the agents split the work, and a reviewer checks what they produced.
+- **[J.A.R.V.I.S](https://github.com/Yigtwxx/J.A.R.V.I.S):** Your OSINT analyst. It searches the open web and writes the full report for you, using local models only.
+- **[OracleX](https://github.com/Yigtwxx/OracleX):** Your trading desk. A local Llama reads market news and scores signals for crypto and stocks.
+- **[awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production):** Maintainer. A curated list of RAG tools that hold up in production.
 
 <img width="100%" height="1" src="https://raw.githubusercontent.com/Yigtwxx/Yigtwxx/main/assets/divider.svg" alt="" />
 
@@ -33,7 +33,7 @@
   <a href="https://news.ycombinator.com/user?id=Yigtwx" target="_blank"><img src="https://img.shields.io/badge/Hacker%20News-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white" alt="Hacker News" /></a>
   <a href="https://www.reddit.com/user/yigtwx7/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
   <a href="https://www.instagram.com/yigtwx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://github.com/Yigtwxx/Yigtwxx/raw/main/assets/Yigit_ERDOGAN_CV.pdf"><img src="https://img.shields.io/badge/Download CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Download CV" /></a>
+  <a href="https://github.com/Yigtwxx/Yigtwxx/raw/main/assets/Yigit_ERDOGAN_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Download CV" /></a>
 </p>
 
 ### Tech Stack
