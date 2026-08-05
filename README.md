@@ -28,9 +28,6 @@
   <a href="https://www.instagram.com/yigtwx/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 
-  <a href="https://www.youtube.com/@Yigtwx" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-ffffff?style=for-the-badge&logo=youtube&logoColor=red" alt="YouTube" /></a>&nbsp;
-
   <a href="https://dev.to/yigtwx" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>&nbsp;
 
