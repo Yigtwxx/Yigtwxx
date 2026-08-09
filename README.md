@@ -1,7 +1,7 @@
 # Yiğit Erdoğan
 ### AI Engineer · I build RAG & LLM systems end to end — prototype to production
 
-*I build AI features end to end: the model, the service that serves it, and the interface on top — prototype to production, without a handoff. Much of my work is local-first by default, so retrieval and inference run on your own infrastructure and customer data never leaves it. My fixes are merged into NVIDIA's TensorRT-LLM, Hugging Face transformers, n8n and openclaw, mostly the unglamorous kind — a silent data-loss bug, a cross-platform breakage, a validation guard that let NaN through, a missing CI pipeline — each one pinned with a regression test. I'd rather ship what survives production than what demos well.*
+*I build AI features end to end: the model, the service that serves it, and the interface on top — prototype to production, without a handoff. Much of my work is local-first by default, so retrieval and inference run on your own infrastructure and customer data never leaves it. My fixes are merged into NVIDIA, Hugging Face transformers, openclaw and n8n, mostly the unglamorous kind — a silent data-loss bug, a cross-platform breakage, a validation guard that let NaN through, a missing CI pipeline — each one pinned with a regression test. I'd rather ship what survives production than what demos well.*
 
 <table align="right">
   <tr>
