@@ -232,6 +232,14 @@ The file` here ([PR #115743](https://github.com/openclaw/openclaw/pull/115743))
 
 </details>
 
+<details>
+<summary><b><a href="https://github.com/D4Vinci/Scrapling">D4Vinci/Scrapling</a></b> &nbsp;<img src="https://img.shields.io/github/stars/D4Vinci/Scrapling?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 1 merged &middot; released</summary>
+<br>
+
+- **Both bulk browser tools of the MCP server sized their page pool wrongly, in opposite directions** — so an AI agent reaching for either one got a batch that could not run at all or one that ran through a single tab. `bulk_fetch` passed `max_pages=len(urls)` straight into `AsyncDynamicSession` on the session-less path, but `PagesCount` is `Annotated[int, Meta(ge=1, le=50)]`, so any batch over 50 URLs — or an empty list, which trips the `ge=1` bound — died on `Invalid argument type: Expected int <= 50 at $.max_pages` before a single fetch started. `bulk_stealthy_fetch` never set `max_pages` at all, so the pool fell back to the default of 1 and every URL queued behind one tab, raising `TimeoutError` once the 60s pool wait ran out; the two sibling tools therefore behaved differently for the identical batch. Both call sites now go through one helper that clamps the pool to the validator's own range, so a batch gets a page per URL up to 50 and anything larger is processed through 50 concurrent pages instead of raising — and the cap is stated in the `:param urls:` line of both docstrings, since those docstrings are exactly what the model receives as the MCP tool description. The tests reuse the file's existing fake-session monkeypatch so nothing launches a browser: both bulk paths at 3/4, 60 and 0 URLs, plus one case that feeds the computed size into a real `AsyncDynamicSession` as a regression guard against the validator bounds drifting away from the constant that mirrors them ([PR #393](https://github.com/D4Vinci/Scrapling/pull/393), carried into the [v0.4.13](https://github.com/D4Vinci/Scrapling/releases/tag/v0.4.13) release by [PR #406](https://github.com/D4Vinci/Scrapling/pull/406) and credited by name in its Bug Fixes notes)
+
+</details>
+
 <div align="left">
   <h2>  My Contributions</h2>
   <img width="100%" src="https://raw.githubusercontent.com/Yigtwxx/Yigtwxx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
