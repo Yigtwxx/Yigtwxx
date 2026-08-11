@@ -248,6 +248,14 @@ The file` here ([PR #115743](https://github.com/openclaw/openclaw/pull/115743))
 
 </details>
 
+<details>
+<summary><b><a href="https://github.com/open-telemetry/opentelemetry-python-genai">open-telemetry/opentelemetry-python-genai</a></b> &nbsp;<img src="https://img.shields.io/github/stars/open-telemetry/opentelemetry-python-genai?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 1 merged</summary>
+<br>
+
+- **The maintainers' strict-typing rollout had stalled with four of twelve instrumentation packages still outside it** — `[tool.pyright] typeCheckingMode = "strict"` sits in the root `pyproject.toml` under a comment reading *"Add progressively instrumentation packages here."*, with a maintainer-opened issue ([#169](https://github.com/open-telemetry/opentelemetry-python-genai/issues/169)) asking for the rest, which makes finishing it a decided task rather than a proposal — worth stating in an org whose contribution rules forbid AI-written issue comments, so a PR cannot open with a question. `qwen-agent` was the one to take: smallest source tree of the four and no open PR touching it. Strict mode reported eight errors, all in one file and all one shape — `isinstance(x, dict)` and `isinstance(x, list)` narrowing to `dict[Unknown, Unknown]` / `list[Unknown]`. The first push copied the idiom the repository already uses in its `agno` package, `cast(dict[str, Any], …)` / `cast(list[Any], …)`, and review declined to stop there: `cast(list[Any], …)` silences Pyright by discarding the element type, so the error count reaches zero by removing the information the check exists to enforce. qwen-agent's own `Message` and `ContentItem` already describe those elements, so the signatures were annotated with them — imported under `TYPE_CHECKING`, since qwen-agent is an optional dependency and the module has to import without it — and Pyright then narrowed the `isinstance` branches by itself, dropping all five list casts. The one cast left is the `dict[str, Any]` in `_field_value`, where the lookup genuinely is a heterogeneous mapping. Not one line of the test files changed, which is what evidences that none of this altered behavior; `tox -e typecheck` went 8 → 0 ([PR #366](https://github.com/open-telemetry/opentelemetry-python-genai/pull/366))
+
+</details>
+
 <div align="left">
   <h2>  My Contributions</h2>
   <img width="100%" src="https://raw.githubusercontent.com/Yigtwxx/Yigtwxx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
