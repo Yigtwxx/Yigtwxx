@@ -19,6 +19,7 @@
 - **[Maestro](https://github.com/Yigtwxx/Maestro):** Your AI agent team. You write one prompt, the agents split the work, and a reviewer checks what they produced.
 - **[J.A.R.V.I.S](https://github.com/Yigtwxx/J.A.R.V.I.S):** Your OSINT analyst. It searches the open web and writes the full report for you, using local models only.
 - **[OracleX](https://github.com/Yigtwxx/OracleX):** Your trading desk. A local Llama reads market news and scores signals for crypto and stocks.
+- **[Spiyweb](https://github.com/Yigtwxx/spiyweb):** Your retrieval web. The query enters the vector graph as an energy seed and spreads like a spider web, so multi-hop answers that top-k misses light up on their own.
 - **[awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production):** Maintainer. A curated list of RAG tools that hold up in production.
 
 <img width="100%" height="1" src="https://raw.githubusercontent.com/Yigtwxx/Yigtwxx/main/assets/divider.svg" alt="" />
