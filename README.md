@@ -254,6 +254,14 @@ The file` here ([PR #115743](https://github.com/openclaw/openclaw/pull/115743))
 </details>
 
 <details>
+<summary><b><a href="https://github.com/openclaw/lobster">openclaw/lobster</a></b> &nbsp;<img src="https://img.shields.io/github/stars/openclaw/lobster?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 1 merged</summary>
+<br>
+
+- **Every schema-validated step bought one more billed model call than its retry budget allowed** — `--max-validation-retries N` sent `N + 2` requests, and `0`, the setting a user picks precisely because the model is expensive, still paid for a second call on every failing step. The attempt counter is 1-based and was compared against the budget *plus one*, so the initial request was never charged against it; `attempt` counts calls while the flag counts retries, which makes `retries + 1` the correct bound and the extra `+ 1` pure overspend. Nothing surfaced it: the command still failed with the right error, so the only visible symptom was a `cost_limit` reaching its ceiling earlier than the configuration implied. Only the failure bound moves — a response that validates still returns on whichever attempt produced it, and with `0` retries `payload.retryContext` is now correctly never sent at all, which is what "no retries" should mean. The tests count the requests a stub adapter actually receives rather than matching on the error message, because both the old and the new code reject with the same message and the call count is the only thing that separates them; proven load-bearing by stashing the production change and keeping them, which fails the `0` case with 2 calls where 1 is expected. The flag's own description said only "retries when schema validation fails" — exactly the ambiguity the fix resolves — so it now states that it allows N extra calls after the first ([PR #128](https://github.com/openclaw/lobster/pull/128), closes [issue #127](https://github.com/openclaw/lobster/issues/127))
+
+</details>
+
+<details>
 <summary><b><a href="https://github.com/open-telemetry/opentelemetry-python-genai">open-telemetry/opentelemetry-python-genai</a></b> &nbsp;<img src="https://img.shields.io/github/stars/open-telemetry/opentelemetry-python-genai?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 1 merged</summary>
 <br>
 
