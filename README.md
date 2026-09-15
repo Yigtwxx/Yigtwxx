@@ -167,6 +167,14 @@ The file` here ([PR #115743](https://github.com/openclaw/openclaw/pull/115743))
 </details>
 
 <details>
+<summary><b><a href="https://github.com/apple/embedding-atlas">apple/embedding-atlas</a></b> &nbsp;<img src="https://img.shields.io/github/stars/apple/embedding-atlas?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 1 merged</summary>
+<br>
+
+- **A HEIC or AVIF image column was handed to the audio embedder** — `_detect_binary_modality` recognised the ISO BMFF `ftyp` box and returned `audio` for every file carrying one, and HEIC (the default iPhone photo format) and AVIF share that container with MP4/M4A, so with `modality="auto"` (the Python API default, and what the CLI does without `--image`) the column went to CLAP and died inside soundfile with `Format not recognised`. Fixed by reading the box's major and compatible brands and routing the HEIF/AVIF brands to `image` before the audio branch — the compatible brands matter, because many HEIF files declare the generic `mif1` major brand and only list `heic` further down; MP4/M4A brands still fall through to audio. Covered with tests for `heic`, `mif1`+`heic`, `avif` and the `isom` fallback, and since Pillow 12 opens AVIF natively, AVIF columns now embed end to end. Merged by the maintainer within two hours ([PR #257](https://github.com/apple/embedding-atlas/pull/257))
+
+</details>
+
+<details>
 <summary><b><a href="https://github.com/koala73/worldmonitor">koala73/worldmonitor</a></b> &nbsp;<img src="https://img.shields.io/github/stars/koala73/worldmonitor?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 11 merged &middot; 1 prototype</summary>
 <br>
 
