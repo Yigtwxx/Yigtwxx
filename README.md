@@ -175,6 +175,14 @@ The file` here ([PR #115743](https://github.com/openclaw/openclaw/pull/115743))
 </details>
 
 <details>
+<summary><b><a href="https://github.com/apple/coremltools">apple/coremltools</a></b> &nbsp;<img src="https://img.shields.io/github/stars/apple/coremltools?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 1 merged</summary>
+<br>
+
+- **Every grouped-query-attention model failed to convert to Core ML** — PyTorch 2.5 added `enable_gqa=True` to `F.scaled_dot_product_attention` so key/value can carry fewer heads than query, and Hugging Face transformers now takes that path by default for Llama 3, Mistral, Qwen and Gemma whenever there is no explicit attention mask. The converter never read the argument, so key/value reached the MIL op with the wrong head count and conversion died with `query, key, value must have a same batch dimension` on the fused iOS18 op, or a matmul shape mismatch on the pre-iOS18 decomposition. Fixed by parsing the flag on both frontends (TorchScript serialises it as the eighth positional input, torch.export leaves it in kwargs) and repeat-interleaving the key/value heads before either lowering runs — repeat-interleave rather than tile, since `head0,head0,head1,head1` and `head0,head1,head0,head1` give different attention outputs and only the former matches PyTorch's `repeat_kv`. Covered across four head ratios, both backends, all three frontends, fused and decomposed targets, and dynamic batch/sequence dims, with the smallest ratio where tile and repeat-interleave disagree pinning the semantics. Verified without an Apple device by evaluating the emitted MIL program in NumPy against PyTorch eager. Merged unchanged after one review question ([PR #2855](https://github.com/apple/coremltools/pull/2855))
+
+</details>
+
+<details>
 <summary><b><a href="https://github.com/koala73/worldmonitor">koala73/worldmonitor</a></b> &nbsp;<img src="https://img.shields.io/github/stars/koala73/worldmonitor?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 11 merged &middot; 1 prototype</summary>
 <br>
 
