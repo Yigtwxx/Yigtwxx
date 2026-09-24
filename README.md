@@ -128,6 +128,14 @@ The file` here ([PR #115743](https://github.com/openclaw/openclaw/pull/115743))
 </details>
 
 <details>
+<summary><b><a href="https://github.com/Significant-Gravitas/AutoGPT">Significant-Gravitas/AutoGPT</a></b> &nbsp;<img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 1 merged</summary>
+<br>
+
+- **AutoPilot's artifacts button offered the agent's own scratch files as the user's deliverable** — oversized tool results are written back into the chat session's workspace as `tool-outputs/<call-id>.json`, so an SDK tool result was routinely the newest generated file, and the top-right toggle read `Open toolu_….json` and opened raw tool JSON on click. Upstream's copilot restyle deleted the auto-open hook this PR originally patched mid-review, so the bug moved rather than disappeared, and the merge carried the filter into the toggle's `getLastGeneratedFile` with toggle-level tests for the label, the click target and a session that holds nothing but tool output. The frontend predicate went through three shapes, and the review showed the last one was still wrong: requiring an SDK id prefix (`toolu_` / `mcp_`) seemed like parity with the backend's own classifier, but the SDK transport synthesizes `sdk-<hex>` ids before the file is written, so the filter did nothing on the default path. The fix the maintainer landed on the branch removes the guessing entirely: the writer now stamps `metadata.purpose = "tool-output"` whatever the id format looks like, the frontend trusts that metadata first, and only files that predate it fall back to a path check anchored at the session root, so a user's own `my-pipeline/tool-outputs/data.json` stays eligible. This is the follow-up I had offered in the PR body, shipped in the same PR, with tests that cover `sdk-`, `call_`, `tc-` and SDK-shaped names ([PR #13614](https://github.com/Significant-Gravitas/AutoGPT/pull/13614), closes [#13510](https://github.com/Significant-Gravitas/AutoGPT/issues/13510))
+
+</details>
+
+<details>
 <summary><b><a href="https://github.com/huggingface/transformers">huggingface/transformers</a></b> &nbsp;<img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 3 merged</summary>
 <br>
 
