@@ -195,6 +195,14 @@ The file` here ([PR #115743](https://github.com/openclaw/openclaw/pull/115743))
 </details>
 
 <details>
+<summary><b><a href="https://github.com/swiftlang/swift-package-manager">swiftlang/swift-package-manager</a></b> &nbsp;<img src="https://img.shields.io/github/stars/swiftlang/swift-package-manager?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 1 merged</summary>
+<br>
+
+- **All three documentation links in the Swift Package Manager README returned 404** — they pointed at `docs.swift.org/swiftpm/...`, and that prefix is redirected by rewriting the `swiftpm` component to `latest/documentation/packagemanagerdocs` and appending the rest of the original path, so the Package Manager docs, the PackageDescription API reference and the release notes each landed on a doubled path that does not exist (`.../packagemanagerdocs/packagemanagerdocs`). Replaced them with their canonical destinations and left the Getting Started link alone, since it already resolves. An earlier PR for the same issue had been closed after a reviewer asked how its validation actually checked the URLs, so the validation here is only the measurement that answers that question: `curl -L -w "%{http_code} %{url_effective}"` over all six URLs, the old ones ending in 404 at the doubled path and the new ones in 200. Approved by [@heckj](https://github.com/heckj) and [@dschaefer2](https://github.com/dschaefer2), who merged it ([issue #10463](https://github.com/swiftlang/swift-package-manager/issues/10463), [PR #10518](https://github.com/swiftlang/swift-package-manager/pull/10518))
+
+</details>
+
+<details>
 <summary><b><a href="https://github.com/koala73/worldmonitor">koala73/worldmonitor</a></b> &nbsp;<img src="https://img.shields.io/github/stars/koala73/worldmonitor?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 11 merged &middot; 1 prototype</summary>
 <br>
 
