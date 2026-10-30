@@ -16,7 +16,7 @@
 
 ### What I'm Building
 
-- **[Maestro](https://github.com/Yigtwxx/Maestro):** Your AI agent team. You write one prompt, the agents split the work, and a reviewer checks what they produced.
+- **[sepia](https://github.com/Yigtwxx/sepia):** Your terminal canvas. Describe a picture in one window and watch it appear as colored text in a second one.
 - **[J.A.R.V.I.S](https://github.com/Yigtwxx/J.A.R.V.I.S):** Your OSINT analyst. It searches the open web and writes the full report for you, using local models only.
 - **[OracleX](https://github.com/Yigtwxx/OracleX):** Your trading desk. A local Llama reads market news and scores signals for crypto and stocks.
 - **[spiyweb](https://github.com/Yigtwxx/spiyweb):** Your retrieval web. The query spreads through the vector graph like a spider web, lighting up multi-hop answers that top-k misses.
