@@ -224,14 +224,6 @@ The file` here ([PR #115743](https://github.com/openclaw/openclaw/pull/115743))
 </details>
 
 <details>
-<summary><b><a href="https://github.com/kubeflow/sdk">kubeflow/sdk</a></b> &nbsp;<img src="https://img.shields.io/github/stars/kubeflow/sdk?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 1 merged</summary>
-<br>
-
-- **A TorchTune fine-tuning config given a plain string for `loss` or the dataset `source` crashed inside the SDK with `AttributeError: 'str' object has no attribute 'value'` instead of naming the field**, while `dtype` in the same code path already raised a clear `ValueError`. `loss` was never type-checked before `get_args_using_torchtune_config` read `.value` off it, and the `ValueError` guarding `source` was unreachable: its branch runs only when `source` is not a `DataFormat`, yet the message read `.value` from that same object, so building the exception failed first. The mistake is easy to make by hand, because `DataFormat.JSON.value` is literally `"json"` and the wrong value looks right at a glance. Both now raise `Invalid loss: ...` and `Invalid data format: ...`, and valid input is unchanged. Three cases join the existing parametrized tests: the two failure cases fail on `main` with `AttributeError`, and the third gives `source` its first coverage, which is why the dead branch had gone unnoticed. [@andreyvelich](https://github.com/andreyvelich) approved it and it landed ([issue #741](https://github.com/kubeflow/sdk/issues/741), [PR #742](https://github.com/kubeflow/sdk/pull/742)).
-
-</details>
-
-<details>
 <summary><b><a href="https://github.com/koala73/worldmonitor">koala73/worldmonitor</a></b> &nbsp;<img src="https://img.shields.io/github/stars/koala73/worldmonitor?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 14 merged &middot; 1 prototype</summary>
 <br>
 
@@ -293,6 +285,14 @@ The file` here ([PR #115743](https://github.com/openclaw/openclaw/pull/115743))
 
 - **Hex-encoded accents leaked into the LinkedIn scraper's CLI output as raw entities, and emoji came out mangled in every form**. The decoder handled decimal entities only, and `String.fromCharCode` truncated supplementary-plane code points to 16 bits. 1 of 6 fixture cases passed before, 6 of 6 after, under network-free unit tests ([PR #55](https://github.com/MadsLorentzen/ai-job-search/pull/55))
 - **Same bug in both duplicated decoders of the Jobindex scraper**, where it matters more: on a Danish portal `æ`/`ø`/`å` frequently arrive as numeric entities, and their hex forms rendered broken ([PR #56](https://github.com/MadsLorentzen/ai-job-search/pull/56))
+
+</details>
+
+<details>
+<summary><b><a href="https://github.com/kubeflow/sdk">kubeflow/sdk</a></b> &nbsp;<img src="https://img.shields.io/github/stars/kubeflow/sdk?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 1 merged</summary>
+<br>
+
+- **A TorchTune fine-tuning config given a plain string for `loss` or the dataset `source` crashed inside the SDK with `AttributeError: 'str' object has no attribute 'value'` instead of naming the field**, while `dtype` in the same code path already raised a clear `ValueError`. `loss` was never type-checked before `get_args_using_torchtune_config` read `.value` off it, and the `ValueError` guarding `source` was unreachable: its branch runs only when `source` is not a `DataFormat`, yet the message read `.value` from that same object, so building the exception failed first. The mistake is easy to make by hand, because `DataFormat.JSON.value` is literally `"json"` and the wrong value looks right at a glance. Both now raise `Invalid loss: ...` and `Invalid data format: ...`, and valid input is unchanged. Three cases join the existing parametrized tests: the two failure cases fail on `main` with `AttributeError`, and the third gives `source` its first coverage, which is why the dead branch had gone unnoticed. [@andreyvelich](https://github.com/andreyvelich) approved it and it landed ([issue #741](https://github.com/kubeflow/sdk/issues/741), [PR #742](https://github.com/kubeflow/sdk/pull/742)).
 
 </details>
 
