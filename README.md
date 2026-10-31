@@ -68,7 +68,7 @@
 
 ### Open Source Contributions
 
-*__161 merged PRs across 24 repositories__, including $\color{#F97316}\textsf{openclaw}$, n8n, Transformers, LangChain, NVIDIA, Apple and TensorFlow. Mostly bug fixes; each card below says how the bug was reproduced and how the fix was proven.*
+**161 merged PRs across 24 repositories**, including $`\color{#F97316}\textsf{openclaw}`$, $`\color{#EA4B71}\textsf{n8n}`$, $`\color{#EAB308}\textsf{Transformers}`$, $`\color{#2E9C8A}\textsf{LangChain}`$, $`\color{#76B900}\textsf{NVIDIA}`$, $`\color{#A2AAAD}\textsf{Apple}`$ and $`\color{#FFA800}\textsf{TensorFlow}`$. Mostly bug fixes; each card below says how the bug was reproduced and how the fix was proven.
 
 <details>
 <summary><b><a href="https://github.com/openclaw/openclaw">openclaw/openclaw</a></b> &nbsp;<img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 51 merged</summary>
