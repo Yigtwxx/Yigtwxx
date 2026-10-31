@@ -68,6 +68,8 @@
 
 ### Open Source Contributions
 
+**161 merged PRs across 24 repositories**, including openclaw, n8n, Transformers, LangChain, NVIDIA, Apple and TensorFlow. Mostly bug fixes; each card below says how the bug was reproduced and how the fix was proven.
+
 <details>
 <summary><b><a href="https://github.com/openclaw/openclaw">openclaw/openclaw</a></b> &nbsp;<img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="stars" valign="middle"> &nbsp;&middot;&nbsp; 51 merged</summary>
 <br>
